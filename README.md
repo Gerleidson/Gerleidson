@@ -11,6 +11,7 @@
 </div
     
 ##
+    
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
@@ -19,6 +20,7 @@
 </div>
   
 ##
+  
 <div>
    <a href="https://www.youtube.com/channel/UC-LVwMsF0t-zQ1AMyP6PoUA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gerleidson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
