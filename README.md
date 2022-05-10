@@ -20,11 +20,10 @@
   
 ##
 
-  <div align= "justified">
+  <div align= "center">
   <h2> Cursando Tecnólogo em Análise e Desenvolvimento de Sistema na Unicesumar  
   e utilizando DIO para aperfeceiomento e adquirir novos conhecimento.
   </h2>
-
   
   <a align ="left" href="https://www.unicesumar.edu.br/home/">
   <img  height = "80 " src = "https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/logo.png"/> &ensp; &ensp;
@@ -35,7 +34,7 @@
   </a>
   <div/>
  
- Conhecimento básico em:
+ Linguagens: Conhecimento básico em:
 
  <div align= "justified">  
    <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
