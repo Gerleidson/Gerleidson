@@ -14,9 +14,6 @@
     
 ##
     
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  
 <div style="display: inline_block"><br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </div>
@@ -27,8 +24,7 @@
   <h2>Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas na Unicesumar e utilizando cursos e bootcamps da DIO para aperfeitçoamento.
   </h2>
  #
-## Linguagens : 
-#### Conhecimento básico em:
+ Conhecimento básico em:
 
 <div>
   
@@ -51,8 +47,10 @@
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
      
   </div>
-     
-      Conhecimento Básico em :
+
+ #
+    
+    Conhecimento Básico em :
 <div>
   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &ensp;
   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &ensp;
