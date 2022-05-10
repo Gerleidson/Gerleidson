@@ -21,17 +21,17 @@
 ##
 
  <div align = "center">
-  <h2> Tecnólogo em Sistema para Internet na Unicesumar  
-  e utilizando plataformas p/ bootcamps / Cursos / Mini-Cursos:
+  <h2> Cursando Tecnólogo em Análise e Desenvolvimento de Sistema na Unicesumar  
+  e utilizando DIO para aperfeceiomento e adquirir novos conhecimento.
   </h2>
 
   
   <a align ="left" href="https://www.unicesumar.edu.br/home/">
-  <img  height = "80 " src = "https://github.com/gerleidson/gerleidson/blob/main/logo.png"/> &ensp; &ensp;
+  <img  height = "80 " src = "https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/logo.png"/> &ensp; &ensp;
   </a>  
   
    <a align = "center " href="https://www.dio.me/">
-      <img height ="80" src="https://github.com/gerleidson/gerleidson/blob/main/dio.png"/> &ensp; &ensp;
+      <img height ="80" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/dio.png"/> &ensp; &ensp;
   </a>
   <div/>
  
@@ -61,7 +61,7 @@
 
  #
     
-    Conhecimento Básico em :
+   Conhecimento Básico em :
 <div>
   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &ensp;
   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &ensp;
@@ -70,17 +70,6 @@
 
 </div>
     
- 
-    
-  </h2>
-  
-  <a align ="left" href="https://www.unicesumar.edu.br/home/">
-  <img  height = "80 " src = "https://github.com/gerleidson/gerleidson/blob/main/logo.png"/> &ensp; &ensp;
-  </a>  
-  
-   <a align = "center " href="https://www.dio.me/">
-      <img height ="80" src="https://github.com/gerleidson/gerleidson/blob/main/dio.png"/> &ensp; &ensp;
-  </a>
   
 ##  
   
@@ -97,6 +86,11 @@
  
 </div>
   
+   ![](https://i.imgur.com/waxVImv.png)
+  
+  <img align = "center " height= "180em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/walkcyclevector24-dribbble-unscreen.gif"/>
+
+   
   <h3 align="center"> Total visits on my profile :detective:</h3>
 
  <div align="center">
