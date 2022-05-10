@@ -42,7 +42,7 @@
   <div align= "justified">
      <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />&ensp;
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&ensp;
-     <img height = "80" src= " https://github.com/Gerleidson/Gerleidson/blob/main/Sem%20t%C3%ADtulo.jpg" />
+     <img height ="80" src= "https://github.com/Gerleidson/Gerleidson/blob/main/apple3.png"/>&ensp;
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&ensp;
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
      
@@ -85,3 +85,9 @@
    ![Snake animation](https://github.com/gerleidson/gerleidson/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  <h3 align="center"> Total visits on my profile :detective:</h3>
+
+ <div align="center">
+ <img src="https://profile-counter.glitch.me/LeandroDukievicz/count.svg"/>
+  </div>
