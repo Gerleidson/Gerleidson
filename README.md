@@ -1,4 +1,12 @@
-
+<div>
+   <a href="https://www.youtube.com/channel/UC-LVwMsF0t-zQ1AMyP6PoUA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/gerleidson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://discord.gg/gerleidson" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gerleidson.bomfim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gerleidson-bomfim-08108a211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = [![contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)&ensp;&ensp;&ensp;&ensp;](https://api.whatsapp.com/send?phone=5571992777540&text=Ol%C3%A1%20%2C%20tudo%20bem%20%3F)
+ <div>
+  
 <div align= "center">
   <h2> A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"
   </h2>
@@ -68,15 +76,6 @@
   
 ##  
   
-<div>
-   <a href="https://www.youtube.com/channel/UC-LVwMsF0t-zQ1AMyP6PoUA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gerleidson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://discord.gg/gerleidson" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gerleidson.bomfim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gerleidson-bomfim-08108a211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = [![contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)&ensp;&ensp;&ensp;&ensp;](https://api.whatsapp.com/send?phone=5571992777540&text=Ol%C3%A1%20%2C%20tudo%20bem%20%3F)
- <div>
-    
    ![Snake animation](https://github.com/gerleidson/gerleidson/blob/output/github-contribution-grid-snake.svg)
  
 </div>
