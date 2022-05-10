@@ -15,14 +15,14 @@
 <div align= "justified"> 
 <h2>Olá, é um enorme prazer ter voce em meu Github!
    
-   Seja bem vindo (a)!
+      Seja bem vindo (a)!
    
    Sou estudante de Análise e desenvolvimento de sistemas, amante da tecnologia desde cedo e com a curiosidade de saber como
    tudo funciona por trás da tela que temos contato em nosso dia a dia, procuro sempre inovações e desafios que possam 
    contribuir para meu crescimento profissional.
   </h2>   
    
-   Tecnologias usadas recentemente:
+   Meus Status:
 <div align="center">
 <img height = "209em" src="https://github-readme-stats.vercel.app/api?username=Gerleidson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height = "209em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerleidson&layout=demo)](https://github.com/anuraghazra/github-readme-stats"/>
