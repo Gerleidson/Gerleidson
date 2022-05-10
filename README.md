@@ -14,6 +14,22 @@
 </div>
   
 ##
+
+  <div align = "center">
+  <h2> Tecnólogo em Sistema para Internet na Unicesumar  
+  e utilizando plataformas p/ bootcamps / Cursos / Mini-Cursos:
+  </h2>
+
+  
+  <a align ="left" href="https://www.unicesumar.edu.br/home/">
+  <img  height = "80 " src = "https://github.com/gerleidson/gerleidson/blob/main/logo.png"/> &ensp; &ensp;
+  </a>  
+  
+   <a align = "center " href="https://www.dio.me/">
+      <img height ="80" src="https://github.com/gerleidson/gerleidson/blob/main/dio.png"/> &ensp; &ensp;
+  </a>
+  
+##  
   
 <div>
    <a href="https://www.youtube.com/channel/UC-LVwMsF0t-zQ1AMyP6PoUA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
