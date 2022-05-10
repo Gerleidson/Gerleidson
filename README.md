@@ -23,7 +23,7 @@
   <div align = "center">
   <h2>Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas na Unicesumar e utilizando cursos e bootcamps da DIO para aperfeitçoamento.
   </h2>
- #
+ 
  Conhecimento básico em:
 
 <div>
