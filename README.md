@@ -37,17 +37,7 @@
   <div/>
    
 #
-   Linguagens: (Em constante aprendizado):
-   <div align= "justified">  
-   <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-   <img height = "80" src= " https://github.com/Gerleidson/gerleidson/blob/main/Sem%20t%C3%ADtulo.jpg" />
-   <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img height = "80" src= " https://github.com/gerleidson/Gerleidson/blob/main/Sem%20t%C3%ADtulo.jpg" />
-   <img height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-   <img height = "80" src= " https://github.com/Gerleidson/Gerleidson/blob/main/Sem%20t%C3%ADtulo.jpg" />
-      
-# 
- 
+  
     Sistemas Operacionais e Principais IDE'S:
   <div align= "justified">
      <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />&ensp;
@@ -56,16 +46,16 @@
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&ensp;
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /> 
 
- 
-
  #
    
    Conhecimento Basico em:
-<div>
+ <div align= "justified">
   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &ensp;
   <img height = "80 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&ensp;
   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &ensp;
   <img  height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &ensp;
+  <img height = "80" src= " https://github.com/Gerleidson/Gerleidson/blob/main/Sem%20t%C3%ADtulo.jpg" />
+
   
 </div>
        
