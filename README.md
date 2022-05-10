@@ -27,15 +27,18 @@
   <h2>Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas na Unicesumar e utilizando cursos e bootcamps da DIO para aperfeitçoamento.
   </h2>
   
-  Sistemas Operacionais e Principais IDE'S:
-  <div align= "center">
+ 
+    Sistemas Operacionais e Principais IDE'S:
+  <div align= "justified">
      <img  height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />&ensp;
      <img  height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&ensp;
-     <img  height ="80" src= "https://github.com/Gerleidson/Gerleidson/blob/main/apple3.png"/>&ensp;
+     <img  height ="80" src= "https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/apple3.png"/>&ensp;
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&ensp;
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
      
-    Conhecimento Básico em :
+  </div>
+     
+      Conhecimento Básico em :
 <div>
   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &ensp;
   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &ensp;
