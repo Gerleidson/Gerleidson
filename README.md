@@ -24,7 +24,7 @@
 ##
 
   <div align = "center">
-  Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas na Unicesumar e utilizando cursos e bootcamps da DIO para aperfeitçoamento.
+  <div>Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas na Unicesumar e utilizando cursos e bootcamps da DIO para aperfeitçoamento.
     
     
 
