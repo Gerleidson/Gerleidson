@@ -1,8 +1,8 @@
 
 <p align="center">
   <code>
-     <i> “Não pare até se orgulhar de voce.” –  </i> 
-    <i align="left">  Amyr Klink.</i>
+     <i> “A única maneira de fazer um bom trabalho é amando o que você faz.” –  </i> 
+    <i align="left">  Steve Jobs.</i>
   </code>
 </p>
 
