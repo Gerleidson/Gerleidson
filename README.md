@@ -10,8 +10,10 @@
 <div align= "center">
   <h2> A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"
   </h2>
-   
-  É um grande prazer ter voce em meu Git!
+ 
+   <div align= "center">
+  <h2>Olá, é um enorme prazer ter voce em meu Githut!
+     </h2>
  
       Seja bem vindo (a)!
      
