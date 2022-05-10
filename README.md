@@ -9,10 +9,10 @@
  <div>
   
 <div align= "center">
-  <h3> A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"
-  </h3>
+  <h2> A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"
+  </h2>
  
-     Olá, é um enorme prazer ter voce em meu Githut!
+     <h2>Olá, é um enorme prazer ter voce em meu Githut!
     
      Seja bem vindo (a)!
      
@@ -21,7 +21,7 @@
      por trás da tela que temos contato em nosso dia a dia,
      procuro sempre inovações e desafios que possam contribuir 
      para meu crescimento profissional.
-     
+     </h2>
   
 <div align="center">
   <a href="https://github.com/gerleidson">
