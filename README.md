@@ -37,10 +37,8 @@
   <div/>
    
 #
-      
+   Linguagens: (Em aprendizado):
    <div align= "justified">  
-   <h2> Linguagens: Conhecimento básico em:
-  </h2>
    <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
    <img height = "80" src= " https://github.com/Gerleidson/gerleidson/blob/main/Sem%20t%C3%ADtulo.jpg" />
    <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -63,7 +61,7 @@
 
  #
    
-   Conhecimento Básico em :
+   Conhecimento Basico em:
 <div>
   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &ensp;
   <img height = "80 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&ensp;
