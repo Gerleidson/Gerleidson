@@ -5,6 +5,8 @@
   <a href = "mailto:gerleidson.bomfim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gerleidson-bomfim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=+5571992777540" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  
+  
    
  <div>
   
@@ -12,13 +14,16 @@
   <h2> A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"
   </h2>
  
-   Olá, é um enorme prazer ter voce em meu Githut!
+     Olá, é um enorme prazer ter voce em meu Githut!
     
-   Seja bem vindo (a)!
-   Sou estudante de Análise e desenvolvimento de sistemas, amante da tecnologia desde cedo e com a curiosidade de saber como
-   tudo funciona por trás da tela que temos contato em nosso dia a dia, procuro sempre inovações e desafios que possam 
-   contribuir para meu crescimento profissional.
-    
+     Seja bem vindo (a)!
+     
+     Sou estudante de Análise e desenvolvimento de sistemas, 
+     amante da tecnologia desde cedo e com a curiosidade de saber como tudo funciona
+     por trás da tela que temos contato em nosso dia a dia,
+     procuro sempre inovações e desafios que possam contribuir 
+     para meu crescimento profissional.
+     
   
 <div align="center">
   <a href="https://github.com/gerleidson">
