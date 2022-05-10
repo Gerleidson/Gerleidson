@@ -49,24 +49,16 @@
   </div>
 
  #
-    
-   Conhecimento Básico em :
- <div align= "justified">
-  <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &ensp;
-  <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &ensp;
-  <img height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &ensp;
-  <img height = "80 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   
+    Conhecimento Básico em:
+     <div align= "justified">
+     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &ensp;
+     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &ensp;
+     <img height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &ensp;
+     <img height = "80 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
 </div>
-   
-   Conheciento basico em: <div align= "justified">
-  <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &ensp;
-  <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &ensp;
-  <img height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &ensp;
-  <img height = "80 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-  </div>
-      
+       
 ##  
   
    ![Snake animation](https://github.com/gerleidson/gerleidson/blob/output/github-contribution-grid-snake.svg)
