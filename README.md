@@ -89,5 +89,5 @@
   <h3 align="center"> Total visits on my profile :detective:</h3>
 
  <div align="center">
- <img src="https://profile-counter.glitch.me/LeandroDukievicz/count.svg"/>
+ <img src="https://profile-counter.glitch.me/Gerleidson/count.svg"/>
   </div>
