@@ -11,11 +11,9 @@
   <h2> A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"
   </h2>
  
-   <div align= "center">
-  <h2>Olá, é um enorme prazer ter voce em meu Githut!
-     </h2>
- 
-      Seja bem vindo (a)!
+     Olá, é um enorme prazer ter voce em meu Githut!
+    
+     Seja bem vindo (a)!
      
      Sou estudante de Análise e desenvolvimento de sistemas, 
      amante da tecnologia desde cedo e com a curiosidade de saber como tudo funciona
@@ -59,16 +57,16 @@
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&ensp;
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /> 
 
- #
+#
    
-   Conhecimento Basico em:
- <div align= "justified">
-  <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &ensp;
-  <img height = "80 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&ensp;
-  <img height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &ensp;
-  <img  height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &ensp;
-
+  conhecimento basico em
+    Conhecimento Basico em:
+  <div align= "justified">
+    <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &ensp;
+    <img height = "80 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&ensp;
+    <img height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &ensp;
+    <img  height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &ensp;
   
 </div>
        
