@@ -22,9 +22,9 @@
    contribuir para meu crescimento profissional.
   </h2>   
   
-<div align="center">
    Status
-  <a href="https://github.com/gerleidson">
+<div align="center">
+   <a href="https://github.com/gerleidson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gerleidson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerleidson&layout=compact&langs_count=7&theme=dracula"/>
      </div>
