@@ -20,19 +20,24 @@
   
 ##
 
-  <div align = "center">
-  <h2>Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas na Unicesumar
-    e utilizando cursos e bootcamps da DIO para aperfeitçoamento.
+ <div align = "center">
+  <h2> Tecnólogo em Sistema para Internet na Unicesumar  
+  e utilizando plataformas p/ bootcamps / Cursos / Mini-Cursos:
   </h2>
-    
-    
-    <a align ="left" href="https://www.unicesumar.edu.br/home/">
+
+  
+  <a align ="left" href="https://www.unicesumar.edu.br/home/">
   <img  height = "80 " src = "https://github.com/Gerleidson/Gerleidson/blob/main/logo.png"/> &ensp; &ensp;
   </a>  
   
    <a align = "center " href="https://www.dio.me/">
       <img height ="80" src="https://github.com/Gerleidson/Gerleidson/blob/main/dio.png"/> &ensp; &ensp;
   </a>
+   
+   <a align= "right " href="https://tiacademybrasil.com.br/">
+     <img height ="80" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/ti%20academy.jpg"/> &ensp; &ensp;
+   </a>
+  <div/>
  
  Conhecimento básico em:
 
