@@ -25,20 +25,6 @@
   
 ##
 
-  <div align= "center">
-  <h2> Cursando Tecnólogo em Análise e Desenvolvimento de Sistema na Unicesumar  
-  e utilizando DIO para aperfeceiomento e adquirir novos conhecimento.
-  </h2>
-  
-  <a align ="left" href="https://www.unicesumar.edu.br/home/">
-  <img  height = "80 " src = "https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/logo.png"/> &ensp; &ensp;
-  </a>  
-  
-   <a align = "center " href="https://www.dio.me/">
-      <img height ="80" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/dio.png"/> &ensp; &ensp;
-  </a>
-  <div/>
- 
  Linguagens: Conhecimento básico em:
 
  <div align= "justified">  
