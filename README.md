@@ -9,12 +9,17 @@
   
 <div align= "center">
   <h2> A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"
-     
-     É um grande prazer ter voce em meu Git!
+  </h2>
+   
+   <div align= "center">
+  <h2>É um grande prazer ter voce em meu Git!
      Seja bem vindo (a)!
      
-     Sou estudante de Análise e desenvolvimento de sistemas, amante da tecnologia desde cedo e com a curiosidade de saber como tudo funciona
-     por trás da tela que temos contato em nosso dia a dia, procuro sempre inovações e desafios que possam contribuir para meu crescimento profissional.
+     Sou estudante de Análise e desenvolvimento de sistemas, 
+     amante da tecnologia desde cedo e com a curiosidade de saber como tudo funciona
+     por trás da tela que temos contato em nosso dia a dia,
+     procuro sempre inovações e desafios que possam contribuir 
+     ara meu crescimento profissional.
      
   </h2>
 
