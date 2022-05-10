@@ -1,3 +1,11 @@
+
+<p align="center">
+  <code>
+     <i> “Não pare até se orgulhar de voce.” –  </i> 
+    <i align="left">  Amyr Klink.</i>
+  </code>
+</p>
+
 <div align="center">
   <a href="https://github.com/gerleidson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gerleidson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
