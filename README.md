@@ -8,7 +8,7 @@
  <div>
   
 <div align= "center">
-  <h2> A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"
+  <h2> **A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"**
   </h2>
 
 <div align="center">
@@ -44,9 +44,7 @@
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&ensp;
      <img height ="80" src= "https://github.com/Gerleidson/Gerleidson/blob/main/apple3.png"/>&ensp;
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&ensp;
-     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-     
-     
+     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /> 
      
   </div>
 
