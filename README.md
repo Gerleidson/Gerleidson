@@ -24,7 +24,7 @@
    
    Tecnologias usadas recentemente:
 <div align="center">
-<img height = "209em" src="https://github-readme-stats.vercel.app/api?username=Gerleidson&show_icons=true&theme=merko"/>
+<img height = "209em" src="https://github-readme-stats.vercel.app/api?username=Gerleidson&show_icons=true&theme=dracula"/>
   <img height = "209em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerleidson&layout=demo)](https://github.com/anuraghazra/github-readme-stats"/>
 
 </div>
