@@ -26,9 +26,19 @@
   <div align = "center">
   <h2> Tecnólogo em Analise e Desenvolvimento de Sistemas na Unicesumar
     utilizando cursos e bootcamps da DIO para aperfeitçoamento
-  
-  </h2>
 
+    ### Sistemas Operacionais e Principais IDE'S:
+  <div align= "justified">
+     <img  height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />&ensp;
+     <img  height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&ensp;
+     <img  height ="80" src= "https://github.com/gerleidson/gerleidson/blob/main/apple3.png"/>&ensp;
+     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&ensp;
+     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+     
+  </div>
+ 
+    
+  </h2>
   
   <a align ="left" href="https://www.unicesumar.edu.br/home/">
   <img  height = "80 " src = "https://github.com/gerleidson/gerleidson/blob/main/logo.png"/> &ensp; &ensp;
