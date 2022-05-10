@@ -9,7 +9,7 @@
 
  <div>
   
- <div align= "justified">
+ <div align= "center">
     A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"
   
 <div align= "center"> 
