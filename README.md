@@ -8,14 +8,14 @@
  <div>
   
 <div align= "center">
-  **<h2> A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"
-  </h2>**
+  <h2> A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"
+  </h2>
 
 <div align="center">
   <a href="https://github.com/gerleidson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gerleidson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerleidson&layout=compact&langs_count=7&theme=dracula"/>
-</div
+     </div>
     
 ##
     
@@ -58,8 +58,18 @@
   <img height = "80 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
 </div>
-    
-  
+   
+   
+    Sistemas Operacionais e Principais IDE'S:
+  <div align= "justified">
+     <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />&ensp;
+     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&ensp;
+     <img height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&ensp;
+     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /> 
+
+  </div>
+      
 ##  
   
    ![Snake animation](https://github.com/gerleidson/gerleidson/blob/output/github-contribution-grid-snake.svg)
