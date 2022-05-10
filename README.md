@@ -1,6 +1,4 @@
-
-    
-    <div align = "center">
+<div align = "center">
 <img  height = "350em"  src="https://github.com/Gerleidson/gerleidson/blob/main/ld.gif"/>
  </div>
     
