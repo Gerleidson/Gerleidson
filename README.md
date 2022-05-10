@@ -11,9 +11,9 @@
   <h2> A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"
   </h2>
    
-   <div align= "center">
-  <h2>É um grande prazer ter voce em meu Git!
-     Seja bem vindo (a)!
+   <h2>É um grande prazer ter voce em meu Git!
+ 
+      Seja bem vindo (a)!
      
      Sou estudante de Análise e desenvolvimento de sistemas, 
      amante da tecnologia desde cedo e com a curiosidade de saber como tudo funciona
