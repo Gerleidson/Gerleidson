@@ -8,8 +8,8 @@
  <div>
   
 <div align= "center">
-  <h2> **A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"**
-  </h2>
+  **<h2> A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"
+  </h2>**
 
 <div align="center">
   <a href="https://github.com/gerleidson">
