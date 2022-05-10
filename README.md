@@ -24,7 +24,7 @@
 </div>
   
 #
-
+<div>
  Linguagens: Conhecimento básico em:
 
  <div align= "justified">  
@@ -45,7 +45,8 @@
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&ensp;
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /> 
      <img height = "80" src=https://user-images.githubusercontent.com/88213553/167698033-3cab50c5-1d30-445c-8916-16d3030f47dd.jpg
-     <img height = "80" src=https://user-images.githubusercontent.com/88213553/167698626-8b2fe0df-d2dc-44ab-bfcd-d6c3c2611bc1.png
+     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&ensp;
+
 
   </div>
 
