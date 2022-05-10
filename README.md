@@ -11,7 +11,7 @@
   <h2> A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"
   </h2>
    
-   <h2>É um grande prazer ter voce em meu Git!
+  É um grande prazer ter voce em meu Git!
  
       Seja bem vindo (a)!
      
@@ -19,10 +19,9 @@
      amante da tecnologia desde cedo e com a curiosidade de saber como tudo funciona
      por trás da tela que temos contato em nosso dia a dia,
      procuro sempre inovações e desafios que possam contribuir 
-     ara meu crescimento profissional.
+     para meu crescimento profissional.
      
-  </h2>
-
+  
 <div align="center">
   <a href="https://github.com/gerleidson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gerleidson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
