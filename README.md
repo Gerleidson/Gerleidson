@@ -20,7 +20,7 @@
   
 ##
 
- <div align = "center">
+  <div align= "justified">
   <h2> Cursando Tecnólogo em Análise e Desenvolvimento de Sistema na Unicesumar  
   e utilizando DIO para aperfeceiomento e adquirir novos conhecimento.
   </h2>
@@ -37,8 +37,7 @@
  
  Conhecimento básico em:
 
-<div>
-  
+ <div align= "justified">  
    <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
    <img height = "80" src= " https://github.com/Gerleidson/gerleidson/blob/main/Sem%20t%C3%ADtulo.jpg" />
    <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -62,7 +61,7 @@
  #
     
    Conhecimento Básico em :
-<div>
+ <div align= "justified">
   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &ensp;
   <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &ensp;
   <img height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &ensp;
