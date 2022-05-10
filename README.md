@@ -1,10 +1,7 @@
 
-<p align="center">
-  <code>
-     <i> “A única maneira de fazer um bom trabalho é amando o que você faz.” –  </i> 
-    <i align="left">  Steve Jobs.</i>
-  </code>
-</p>
+<div align= "center">
+  <h2> A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"
+  </h2>
 
 <div align="center">
   <a href="https://github.com/gerleidson">
