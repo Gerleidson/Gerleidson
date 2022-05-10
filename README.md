@@ -26,7 +26,21 @@
   <div align = "center">
   <h2>Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas na Unicesumar e utilizando cursos e bootcamps da DIO para aperfeitçoamento.
   </h2>
+ #
+## Linguagens : 
+#### Conhecimento básico em:
+
+<div>
   
+   <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Java/Java-original.svg" />
+   <img height = "80" src= " https://github.com/gerleidson/Gerleidson/blob/main/Sem%20t%C3%ADtulo.jpg" />
+   <img height ="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C/C-original.svg" />
+   <img height = "80" src= " https://github.com/Gerleidson/gerleidson/blob/main/Sem%20t%C3%ADtulo.jpg" />
+   <img height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+   <img height = "80" src= " https://github.com/Gerleidson/Gerleidson/blob/main/Sem%20t%C3%ADtulo.jpg" />
+    </div>
+  
+# 
  
     Sistemas Operacionais e Principais IDE'S:
   <div align= "justified">
