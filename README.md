@@ -26,6 +26,8 @@
   <div align = "center">
   <h2> Tecnólogo em Analise e Desenvolvimento de Sistemas na Unicesumar
     utilizando cursos e bootcamps da DIO para aperfeitçoamento
+    
+     </div>
 
      Sistemas Operacionais e Principais IDE'S:
   <div align= "justified">
@@ -44,7 +46,6 @@
 
 </div>
     
-  </div>
  
     
   </h2>
