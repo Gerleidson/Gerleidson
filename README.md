@@ -16,8 +16,9 @@
 ##
 
   <div align = "center">
-  <h2> Tecnólogo em Sistema para Internet na Unicesumar  
-  e utilizando plataformas p/ bootcamps / Cursos / Mini-Cursos:
+  <h2> Tecnólogo em Analise e Desenvolvimento de Sistemas na Unicesumar
+    utilizando cursos e bootcamps da DIO para aperfeitçoamento
+  
   </h2>
 
   
