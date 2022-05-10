@@ -6,8 +6,7 @@
   <a href="https://www.linkedin.com/in/gerleidson-bomfim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=+5571992777540" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
-  
-   
+
  <div>
   
 <div align= "center">
@@ -18,9 +17,9 @@
     
      Seja bem vindo (a)!
      
-     Sou estudante de Análise e desenvolvimento de sistemas, 
-amante da tecnologia desde cedo e com a curiosidade de saber como tudo funciona por trás da tela que temos contato em nosso dia a dia,
-procuro sempre inovações e desafios que possam contribuir para meu crescimento profissional.
+     Sou estudante de Análise e desenvolvimento de sistemas, amante da tecnologia desde cedo e com a curiosidade de saber como tudo funciona
+     por trás da tela que temos contato em nosso dia a dia, procuro sempre inovações e desafios que possam contribuir 
+     para meu crescimento profissional.
      
   
 <div align="center">
