@@ -5,14 +5,12 @@
   <a href = "mailto:gerleidson.bomfim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gerleidson-bomfim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=+5571992777540" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  
-  
    
  <div>
   
 <div align= "center">
-  <h2> A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"
-  </h2>
+  <h3> A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"
+  </h3>
  
      Olá, é um enorme prazer ter voce em meu Githut!
     
