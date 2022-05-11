@@ -25,8 +25,9 @@
       Sou estudante de Análise e 
       desenvolvimento de sistemas,
       amante da tecnologia
-      desde cedo e com a curiosidade
-      de saber como tudo funciona
+      desde cedo e com a
+      curiosidade de saber 
+      como tudo funciona
       por trás da tela 
       que temos contato em nosso 
       dia a dia, procuro sempre
