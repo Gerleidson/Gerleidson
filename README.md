@@ -11,12 +11,14 @@
     
 <div align= "center">
    
-     A única maneira de fazer um bom trabalho é amando o que voce faz. "Steve Jobs"
+     A única maneira de fazer um bom trabalho
+     é amando o que voce faz. "Steve Jobs"
   
 <div align= "center"> 
    <h2>
   
-      Olá, é um enorme prazer ter voce em meu Github!
+      Olá, é um enorme prazer ter voce
+      em meu Github!
    
       Seja bem vindo (a)!
    
