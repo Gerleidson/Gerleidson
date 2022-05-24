@@ -22,8 +22,8 @@
 <div align= "center"> 
    <h2>
   
-      Olá, é um enorme prazer ter voce
-      em meu Github!
+      Olá, é um enorme prazer ter
+      voce em meu Github!
    
       Seja bem vindo (a)!
    
