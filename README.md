@@ -28,7 +28,7 @@
       Seja bem vindo (a)!
    
       Sou estudante de Análise e 
-      desenvolvimento de sistemas,
+      Desenvolvimento de Sistemas,
       amante da tecnologia
       desde cedo e com a
       curiosidade de saber 
