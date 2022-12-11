@@ -22,13 +22,13 @@
 <div align= "center"> 
    <h2>
   
-      Olá, é um enorme prazer ter
-      voce em meu Github!
+      Olá, é um enorme prazer ter voce
+      em meu Github!
    
       Seja bem vindo (a)!
    
       Sou estudante de Análise e 
-      Desenvolvimento de Sistemas,
+      desenvolvimento de sistemas,
       amante da tecnologia
       desde cedo e com a
       curiosidade de saber 
@@ -52,7 +52,8 @@
 <div style="display: inline_block"><br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </div>  
-     
+  
+   
 #
   
     Sistemas Operacionais e Principais IDE'S:
@@ -71,8 +72,8 @@
     <img height = "80 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&ensp;
     <img height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &ensp;
-    <img  height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-   
+    <img  height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &ensp;
+  
 </div>
        
 ##  
