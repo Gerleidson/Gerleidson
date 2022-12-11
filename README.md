@@ -52,22 +52,7 @@
 <div style="display: inline_block"><br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </div>  
-  
-#
-   <div align = "center">
-  <h2> "Não somos o que sabemos, somos o que estamos dispostos a aprender"
-  </h2>
-  
-  <a align ="left" href="https://www.unicesumar.edu.br/home/">
-  <img  height = "80 " src = "https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/logo.png"/> &ensp; &ensp;
-  </a>  
-  
-  <a align = "center " href="https://www.dio.me/">
-      <img height ="80" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/dio.png"/> &ensp; &ensp;
-  </a>
-   
-  <div/>
-   
+     
 #
   
     Sistemas Operacionais e Principais IDE'S:
