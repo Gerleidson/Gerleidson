@@ -72,7 +72,6 @@
     <img height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &ensp;
     <img  height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg/
    
 </div>
        
