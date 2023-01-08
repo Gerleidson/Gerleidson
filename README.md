@@ -70,9 +70,7 @@
 </div>
        
 ##  
-  
-   ![Snake animation](https://github.com/gerleidson/gerleidson/blob/output/github-contribution-grid-snake.svg)
- 
+   
 </div>
   
  ![](https://i.imgur.com/waxVImv.png)
