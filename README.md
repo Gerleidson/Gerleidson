@@ -56,10 +56,10 @@
      <img height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&ensp;
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
           
    
-     Conhecimento Basico em:
+     Conhecimentos em:
   <div align= "justified">
     <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &ensp;
     <img height = "80 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&ensp;
