@@ -35,16 +35,7 @@
       que possam contribuir para meu crescimento profissional.
  </h2>
    
-   Meus Status:
-<div align="center">
-<img height = "209em" src="https://github-readme-stats.vercel.app/api?username=Gerleidson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height = "209em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerleidson&layout=demo)](https://github.com/anuraghazra/github-readme-stats"/>
 
-</div>
-    
-<div style="display: inline_block"><br>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-</div>  
   
    
 #
