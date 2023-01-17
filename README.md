@@ -35,11 +35,6 @@
       que possam contribuir para meu crescimento profissional.
  </h2>
    
-
-  
-   
-#
-  
     Sistemas Operacionais e Principais IDE'S:
   <div align= "justified">
      <img height = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />&ensp;
