@@ -80,6 +80,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gerleidson)](https://github.com/Gerleidson/github-profile-trophy)
 
 <br>
+ 
+ Contribution Stats
+
+<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Gerleidson&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+ 
  <h3 align="center"> Total de visitas :detective:</h3>
 
  <div align="center">
