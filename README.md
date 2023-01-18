@@ -21,7 +21,7 @@
      é amando o que voce faz. "Steve Jobs"
   
 <div align= "center"> 
-   <p>
+   <h6>
   
       Olá, é um enorme prazer ter voce
       em meu Github!
@@ -34,7 +34,7 @@
       por trás da tela que temos contato em nosso 
       dia a dia, procuro sempre inovações e desafios 
       que possam contribuir para meu crescimento profissional.
- </p>
+ </h6>
    
     Sistemas Operacionais e Principais IDE'S:
   <div align= "justified">
