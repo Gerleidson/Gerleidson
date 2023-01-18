@@ -55,8 +55,19 @@
     <img  height = "80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &ensp;
   
 </div>
-       
-##  
+
+   
+</div>
+  
+ ![](https://i.imgur.com/waxVImv.png)
+  <img align = "center " height= "180em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/walkcyclevector24-dribbble-unscreen.gif"/>
+<p align="center">
+<a href="https://github.com/Gerleidson">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gerleidson&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gerleidson&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
    
 </div>
   
