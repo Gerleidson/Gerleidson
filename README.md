@@ -85,6 +85,10 @@
 
 <img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Gerleidson&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
  
+ <p align="center">
+  <img src="https://github.com/Gerleidson/Gerleidson/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+ 
  <h3 align="center"> Total de visitas :detective:</h3>
 
  <div align="center">
