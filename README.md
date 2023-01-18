@@ -73,8 +73,14 @@
   
  ![](https://i.imgur.com/waxVImv.png)
   <img align = "center " height= "180em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/walkcyclevector24-dribbble-unscreen.gif"/>
+## GitHub Thropies 🏆 :
 
- <h3 align="center"> Total visits on my profile :detective:</h3>
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gerleidson)](https://github.com/Gerleidson/github-profile-trophy)
+
+<br>
+ <h3 align="center"> Total de visitas :detective:</h3>
 
  <div align="center">
  <img src="https://profile-counter.glitch.me/Gerleidson/count.svg"/>
