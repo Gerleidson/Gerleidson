@@ -73,7 +73,8 @@
   
  ![](https://i.imgur.com/waxVImv.png)
   <img align = "center " height= "180em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/walkcyclevector24-dribbble-unscreen.gif"/>
-## GitHub Thropies 🏆 :
+
+ ## GitHub Thropies 🏆 :
 
 <br>
 
