@@ -13,14 +13,15 @@
   
 
  <div>
-    
+ 
+  <H2>
 <div align= "center">
    
      A única maneira de fazer um bom trabalho
      é amando o que voce faz. "Steve Jobs"
   
 <div align= "center"> 
-   <h2>
+   <p>
   
       Olá, é um enorme prazer ter voce
       em meu Github!
@@ -33,7 +34,7 @@
       por trás da tela que temos contato em nosso 
       dia a dia, procuro sempre inovações e desafios 
       que possam contribuir para meu crescimento profissional.
- </h2>
+ </p>
    
     Sistemas Operacionais e Principais IDE'S:
   <div align= "justified">
@@ -74,13 +75,14 @@
  ![](https://i.imgur.com/waxVImv.png)
   <img align = "center " height= "180em" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/walkcyclevector24-dribbble-unscreen.gif"/>
 
- ## GitHub Thropies 🏆 :
+ <p>
+ GitHub Thropies 🏆 :
 
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gerleidson)](https://github.com/Gerleidson/github-profile-trophy)
 
-<br>
+<br></p>
  
  Contribution Stats
 
