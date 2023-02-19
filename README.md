@@ -23,20 +23,18 @@
  
   
 <div align= "center"> 
-   <h6>
+   <h3>
   
-      Olá, é um enorme prazer ter voce
+      Olá meu nome é Gerleidson Bomfim e é um enorme prazer ter voce
       em meu Github!
-   
-      Seja bem vindo (a)!
-   
+    
       Sou estudante de Análise e desenvolvimento de sistemas,
       amante da tecnologia desde cedo e com a
       curiosidade de saber como tudo funciona
       por trás da tela que temos contato em nosso 
       dia a dia, procuro sempre inovações e desafios 
       que possam contribuir para meu crescimento profissional.
- </h6>
+ </h3>
    
     Sistemas Operacionais e Principais IDE'S:
   <div align= "justified">
