@@ -83,11 +83,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gerleidson)](https://github.com/Gerleidson/github-profile-trophy)
 
 <br></p>
- 
- Contribution Stats
-
-<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Gerleidson&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
- 
- <p align="center">
-  <img src="https://github.com/Gerleidson/Gerleidson/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
