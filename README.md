@@ -85,7 +85,6 @@
 •	Adaptável
   
  ![](https://i.imgur.com/waxVImv.png)
-  <img align = "center " height= "180em" src="https://github.com/Gerleidson/Gerleidson/blob/main/walkcyclevector24-dribbble-unscreen.gif"/>
   
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gerleidson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
@@ -93,4 +92,3 @@
 </div>
   
  ![](https://i.imgur.com/waxVImv.png)
-  <img align = "center " height= "180em" src="https://github.com/Gerleidson/Gerleidson/blob/main/walkcyclevector24-dribbble-unscreen.gif"/>
