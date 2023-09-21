@@ -97,3 +97,5 @@
 </div>
   
  ![](https://i.imgur.com/waxVImv.png)
+
+<img src="https://raw.githubusercontent.com/Gerleidson/Gerleidson/output/snake.svg" alt="Snake animation" />
