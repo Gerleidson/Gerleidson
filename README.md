@@ -1,15 +1,29 @@
- <h3 align="center"> Total de visitas :detective:</h3>
+<h3 align="center"> Total de visitas :detective:</h3>
 
  <div align="center">
  <img src="https://profile-counter.glitch.me/Gerleidson/count.svg"/>
-  </div>
 
-<h4 align="center">
- 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+  ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
+<div align="justified">
+   <h3>
+  
+      Olá meu nome é Gerleidson Bomfim e é um enorme prazer ter voce
+      em meu Github!
+    
+      Tecnólogo em análise e desenvolvimento de sistemas,
+      amante da tecnologia desde cedo e com a
+      curiosidade de saber como tudo funciona
+      por trás da tela que temos contato em nosso 
+      dia a dia, procuro sempre inovações e desafios 
+      que possam contribuir para meu crescimento profissional.
+      
+   </h3>
+   </div>
 
-<p align="center">Contate-me</p>
+   
+
+   <p align="center">Contate-me</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gerleidson" target="_blank">
@@ -25,25 +39,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-  
-<div align= "center"> 
-   <h3>
-  
-      Olá meu nome é Gerleidson Bomfim e é um enorme prazer ter voce
-      em meu Github!
-    
-      Tecnólogo em análise e desenvolvimento de sistemas,
-      amante da tecnologia desde cedo e com a
-      curiosidade de saber como tudo funciona
-      por trás da tela que temos contato em nosso 
-      dia a dia, procuro sempre inovações e desafios 
-      que possam contribuir para meu crescimento profissional.
- </h3>
-   
+
     Hard Skils:
   <div align= "justified">
-
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
@@ -67,9 +65,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
+   
+<h3>
              
      Soft Skills:
- <H3>
+<h3>
 •	Organização
 •	Integridade
 •	Comunicação
@@ -78,7 +78,7 @@
 •	Flexibilidade
 •	Liderança
 •	Adaptável
- </H3>
+</h3>
   
  ![](https://i.imgur.com/waxVImv.png)
   <img align = "center " height= "180em" src="https://github.com/Gerleidson/Gerleidson/blob/main/walkcyclevector24-dribbble-unscreen.gif"/>
@@ -100,3 +100,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gerleidson)](https://github.com/Gerleidson/github-profile-trophy)
 
 <img src="https://raw.githubusercontent.com/Gerleidson/Gerleidson/output/snake.svg" alt="Snake animation" />
+
