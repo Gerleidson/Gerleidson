@@ -24,7 +24,7 @@
       dia a dia, procuro sempre inovações e desafios 
       que possam contribuir para meu crescimento profissional.  
 
-   </div>
+   <div>
 
    
    <div align="center">
