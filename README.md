@@ -2,7 +2,7 @@
  
     Total de visitas
 
-   </div>
+   <div>
 
  <div align="center">
  <img src="https://profile-counter.glitch.me/Gerleidson/count.svg"/>
@@ -10,7 +10,7 @@
 
 <div align="center">
   <img height="300" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"  />
-</div>
+<div>
 
 <div align="center">
    
@@ -29,7 +29,7 @@
     Contate-me  
 
     
-  </div>
+  <div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gerleidson" target="_blank">
@@ -44,7 +44,7 @@
   <a href="mailto:gerleidson.bomfim@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
+<div>
 
     Hard Skils:
     
