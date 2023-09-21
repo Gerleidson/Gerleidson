@@ -4,7 +4,6 @@
 
    </div>
 
-
  <div align="center">
  <img src="https://profile-counter.glitch.me/Gerleidson/count.svg"/>
  </div>
