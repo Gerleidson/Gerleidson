@@ -1,6 +1,9 @@
  <div align="center">
  
     Total de visitas
+        Total de visitas
+   Total de visitas
+
 
    <div>
 
