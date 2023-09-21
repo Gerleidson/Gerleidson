@@ -1,12 +1,14 @@
-<h3 align="center"> Total de visitas :detective:</h3>
+ <div align="center">
+
+    Total de visitas
 
  <div align="center">
  <img src="https://profile-counter.glitch.me/Gerleidson/count.svg"/>
 
   ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<div align="justified">
-   <h3>
+<div align="center">
+   
   
       Olá meu nome é Gerleidson Bomfim e é um enorme prazer ter voce
       em meu Github!
@@ -18,13 +20,11 @@
       dia a dia, procuro sempre inovações e desafios 
       que possam contribuir para meu crescimento profissional.
       
-   </h3>
-   </div>
-
    
+   <div align="center">
 
-   <p align="center">Contate-me</p>
-
+    Contate-me       
+  
 <div align="center">
   <a href="https://www.linkedin.com/in/gerleidson" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -66,10 +66,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
    
-<h3>
-             
      Soft Skills:
-<h3>
+
 •	Organização
 •	Integridade
 •	Comunicação
@@ -78,7 +76,6 @@
 •	Flexibilidade
 •	Liderança
 •	Adaptável
-</h3>
   
  ![](https://i.imgur.com/waxVImv.png)
   <img align = "center " height= "180em" src="https://github.com/Gerleidson/Gerleidson/blob/main/walkcyclevector24-dribbble-unscreen.gif"/>
@@ -88,16 +85,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gerleidson&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-</div>
   
  ![](https://i.imgur.com/waxVImv.png)
   <img align = "center " height= "180em" src="https://github.com/Gerleidson/Gerleidson/blob/main/walkcyclevector24-dribbble-unscreen.gif"/>
-
- <p>
- GitHub Thropies 🏆 :
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gerleidson)](https://github.com/Gerleidson/github-profile-trophy)
-
-<img src="https://raw.githubusercontent.com/Gerleidson/Gerleidson/output/snake.svg" alt="Snake animation" />
-
