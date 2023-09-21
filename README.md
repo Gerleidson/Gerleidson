@@ -25,6 +25,9 @@
       por trás da tela que temos contato em nosso 
       dia a dia, procuro sempre inovações e desafios 
       que possam contribuir para meu crescimento profissional.
+
+   </div>
+
       
    
    <div align="center">
@@ -94,3 +97,6 @@
   
  ![](https://i.imgur.com/waxVImv.png)
   <img align = "center " height= "180em" src="https://github.com/Gerleidson/Gerleidson/blob/main/walkcyclevector24-dribbble-unscreen.gif"/>
+
+  </div>
+
