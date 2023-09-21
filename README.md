@@ -1,3 +1,4 @@
+<h3 align="center"> 
  <div align="center">
 
     Total de visitas
