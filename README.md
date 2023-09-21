@@ -1,11 +1,7 @@
  <div align="center">
- 
-    Total de visitas
-        Total de visitas
+
    Total de visitas
-
-
-   <div>
+<div>
 
  <div align="center">
  <img src="https://profile-counter.glitch.me/Gerleidson/count.svg"/>
