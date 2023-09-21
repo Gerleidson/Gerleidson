@@ -19,23 +19,20 @@
     
       Formado em Análise e Desenvolvimento de
       Sistemas pela Unicesumar,
-      apaixonado por Java
-      e amante da tecnologia desde 
-      cedo e com a curiosidade de saber c
-      omo tudo funciona por trás da tela
-      que temos contato em nosso 
-      dia a dia, procuro sempre
-      inovações e desafios 
+      apaixonado por Java e amante da 
+      tecnologia desde cedo e com a 
+      curiosidade de saber como tudo 
+      funciona por trás da tela que temos 
+      contato em nosso dia a dia, 
+      procuro sempre inovações e desafios 
       que possam contribuir para
       meu crescimento profissional.  
 
    <div>
-
-   
+  
    <div align="center">
 
     Contate-me  
-
     
   <div>
 
