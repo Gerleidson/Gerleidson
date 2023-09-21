@@ -13,10 +13,8 @@
   <img height="300" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"  />
 </div>
 
-
 <div align="center">
    
-  
       Olá meu nome é Gerleidson Bomfim e é um enorme prazer ter voce
       em meu Github!
     
@@ -29,8 +27,11 @@
    
    <div align="center">
 
-    Contate-me       
-  
+    Contate-me  
+
+    
+  </div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/gerleidson" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -47,6 +48,7 @@
 </div>
 
     Hard Skils:
+    
   <div align= "justified">
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
@@ -85,16 +87,12 @@
   
  ![](https://i.imgur.com/waxVImv.png)
   <img align = "center " height= "180em" src="https://github.com/Gerleidson/Gerleidson/blob/main/walkcyclevector24-dribbble-unscreen.gif"/>
-<p align="center">
-<a href="https://github.com/Gerleidson">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gerleidson&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gerleidson&layout=compact&langs_count=8&theme=algolia"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gerleidson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gerleidson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="125" alt="languages graph"  />
+</div>
   
  ![](https://i.imgur.com/waxVImv.png)
   <img align = "center " height= "180em" src="https://github.com/Gerleidson/Gerleidson/blob/main/walkcyclevector24-dribbble-unscreen.gif"/>
 
-  <br clear="both">
-
 <img src="https://raw.githubusercontent.com/Gerleidson/Gerleidson/output/snake.svg" alt="Snake animation" />
-
-###
