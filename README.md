@@ -25,11 +25,7 @@
       curiosidade de saber como tudo funciona
       por trás da tela que temos contato em nosso 
       dia a dia, procuro sempre inovações e desafios 
-      que possam contribuir para meu crescimento profissional.
-
-   </div>
-
-      
+      que possam contribuir para meu crescimento profissional.    
    
    <div align="center">
 
@@ -93,11 +89,6 @@
 <a href="https://github.com/Gerleidson">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gerleidson&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gerleidson&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
   
  ![](https://i.imgur.com/waxVImv.png)
   <img align = "center " height= "180em" src="https://github.com/Gerleidson/Gerleidson/blob/main/walkcyclevector24-dribbble-unscreen.gif"/>
-
-  </div>
-
