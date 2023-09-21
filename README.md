@@ -92,3 +92,9 @@
   
  ![](https://i.imgur.com/waxVImv.png)
   <img align = "center " height= "180em" src="https://github.com/Gerleidson/Gerleidson/blob/main/walkcyclevector24-dribbble-unscreen.gif"/>
+
+  <br clear="both">
+
+<img src="https://raw.githubusercontent.com/Gerleidson/Gerleidson/output/snake.svg" alt="Snake animation" />
+
+###
