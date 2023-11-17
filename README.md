@@ -18,9 +18,8 @@
       busca de oportunidades emocionantes 
       na área de desenvolvimento de software. 
       
-      Sou um aprendiz dedicado, sempre em 
-      busca de aprimorar minhas habilidades de 
-      codificação.
+      Sou um aprendiz dedicado, sempre buscando 
+      aprimorar minhas habilidades de codificação.
       Possuo formação em Análise e 
       Desenvolvimento de Sistemas pela Unicesumar.
       
