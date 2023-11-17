@@ -12,6 +12,7 @@
 <div>
 
 <div align="center">
+ 
       Olá, meu nome é Gerleidson Bomfim,
       um entusiasta de programação em
       busca de oportunidades emocionantes 
