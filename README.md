@@ -12,21 +12,50 @@
 <div>
 
 <div align="center">
-   
-      Olá meu nome é Gerleidson Bomfim e 
-      é um enorme prazer ter voce
-      em meu Github!
-    
-      Formado em Análise e Desenvolvimento de
-      Sistemas pela Unicesumar,
-      apaixonado por Java e amante da 
-      tecnologia desde cedo e com a 
-      curiosidade de saber como tudo 
-      funciona por trás da tela que temos 
-      contato em nosso dia a dia, 
-      procuro sempre inovações e desafios 
-      que possam contribuir para
-      meu crescimento profissional.  
+
+
+      Olá, meu nome é Gerleidson Bomfim,
+      um entusiasta de programação em
+      busca de oportunidades na área de
+      desenvolvimento de software. 
+      É um prazer tê-lo aqui no meu GitHub!
+      
+      Sou um aprendiz dedicado, constantemente
+      empenhado em aprimorar minhas habilidades
+      de codificação. Possuo formação em 
+      Análise e Desenvolvimento de Sistemas 
+      pela Unicesumar.
+      
+      > Projetos
+      Este repositório abriga alguns dos meus 
+      projetos e experimentos de aprendizado.
+      Mesmo sem experiência profissional, 
+      estou comprometido em crescer e contribuir,
+      sempre em busca de inovações e 
+      desafios que impulsionem meu 
+      desenvolvimento profissional.
+      
+      > Tecnologias de Interesse
+      Atualmente, estou explorando 
+      Java, Spring Boot, HTML, CSS e JavaScript.
+      
+     > O Que Você Encontrará Aqui?
+      Projetos Pessoais: 
+      Uma variedade de projetos que refletem
+      meu interesse e paixão por resolver 
+      problemas por meio do código.
+      
+      Aprendizado Contínuo: 
+      Documentação da minha jornada de 
+      aprendizado, incluindo desafios 
+      enfrentados e lições aprendidas.
+      
+      Experimentos: Pequenos testes e
+      códigos exploratórios que estou 
+      desenvolvendo para aprimorar 
+      minhas habilidades técnicas.
+      
+      Sinta-se à vontade para explorar, contribuir e entrar em contato! 🚀
 
    <div>
      
