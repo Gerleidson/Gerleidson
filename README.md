@@ -13,27 +13,18 @@
 
    <div align="justify">
 
-Olá, meu nome é Gerleidson Bomfim,
-um entusiasta de programação em
-busca de oportunidades emocionantes 
-na área de desenvolvimento de software. 
+Olá, meu nome é Gerleidson Bomfim, um entusiasta de programação em busca de oportunidades emocionantes na área de desenvolvimento de software. 
 
-Estou sempre buscando aprimorar 
-minhas habilidades de codificação.
-Possuo formação em Análise e 
-Desenvolvimento de Sistemas pela Unicesumar.
+Estou sempre buscando aprimorar minhas habilidades de codificação. Possuo formação em análise e desenvolvimento de sistemas pela Unicesumar.
 
 Projetos
-Este repositório é o lar de alguns dos meus 
-projetos e experimentos de aprendizado.
-Mesmo sem experiência profissional, 
-estou comprometido em crescer e contribuir,
-enfrentando desafios que impulsionam
-meu desenvolvimento profissional.
+
+Este repositório é o lar de alguns dos meus projetos e experimentos de aprendizado. Mesmo sem experiência profissional, estou comprometido em crescer e contribuir,
+enfrentando desafios que impulsionam meu desenvolvimento profissional.
 
 Tecnologias de Interesse
-Atualmente, estou imerso no universo de  
-Java, Spring Boot, HTML, CSS e JavaScript.
+
+Atualmente, estou imerso no universo de Java, Spring Boot, HTML, CSS e JavaScript.
 
 Explore Minhas Conquistas:
 • Projetos Pessoais: 
