@@ -12,7 +12,6 @@
 <div>
 
 <div align="center">
-
       Olá, meu nome é Gerleidson Bomfim,
       um entusiasta de programação em
       busca de oportunidades emocionantes 
@@ -54,6 +53,7 @@
 
       Estou aberto a oportunidades 
       e colaborações!
+     
       Sinta-se à vontade para explorar,
       contribuir e entrar em contato 
       para discutir como posso
