@@ -11,53 +11,53 @@
   <img height="300" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"  />
 <div>
 
-   <div align="center">
- 
-      Olá, meu nome é Gerleidson Bomfim,
-      um entusiasta de programação em
-      busca de oportunidades emocionantes 
-      na área de desenvolvimento de software. 
-      
-      Estou sempre buscando aprimorar 
-      minhas habilidades de codificação.
-      Possuo formação em Análise e 
-      Desenvolvimento de Sistemas pela Unicesumar.
-      
-      > Projetos
-      Este repositório é o lar de alguns dos meus 
-      projetos e experimentos de aprendizado.
-      Mesmo sem experiência profissional, 
-      estou comprometido em crescer e contribuir,
-      enfrentando desafios que impulsionam
-      meu desenvolvimento profissional.
-      
-      > Tecnologias de Interesse
-      Atualmente, estou imerso no universo de  
-      Java, Spring Boot, HTML, CSS e JavaScript.
-      
-      > Explore Minhas Conquistas:
-      • Projetos Pessoais: 
-      Uma variedade de projetos que refletem
-      meu interesse e paixão por resolver 
-      problemas por meio do código.
-      
-      • Aprendizado Contínuo: 
-      Documentação da minha jornada de 
-      aprendizado, destacando os desafios 
-      enfrentados e lições aprendidas.
-      
-      • Experimentos:
-      Pequenos testes e códigos exploratórios
-      que desenvolvo para aprimorar minhas
-      habilidades técnicas.
+   <div align="justify">
 
-      Estou aberto a oportunidades 
-      e colaborações!
-     
-      Sinta-se à vontade para explorar,
-      contribuir e entrar em contato 
-      para discutir como posso
-      agregar valor ao seu time! 🚀
+Olá, meu nome é Gerleidson Bomfim,
+um entusiasta de programação em
+busca de oportunidades emocionantes 
+na área de desenvolvimento de software. 
+
+Estou sempre buscando aprimorar 
+minhas habilidades de codificação.
+Possuo formação em Análise e 
+Desenvolvimento de Sistemas pela Unicesumar.
+
+Projetos
+Este repositório é o lar de alguns dos meus 
+projetos e experimentos de aprendizado.
+Mesmo sem experiência profissional, 
+estou comprometido em crescer e contribuir,
+enfrentando desafios que impulsionam
+meu desenvolvimento profissional.
+
+Tecnologias de Interesse
+Atualmente, estou imerso no universo de  
+Java, Spring Boot, HTML, CSS e JavaScript.
+
+Explore Minhas Conquistas:
+• Projetos Pessoais: 
+Uma variedade de projetos que refletem
+meu interesse e paixão por resolver 
+problemas por meio do código.
+
+• Aprendizado Contínuo: 
+Documentação da minha jornada de 
+aprendizado, destacando os desafios 
+enfrentados e lições aprendidas.
+
+• Experimentos:
+Pequenos testes e códigos exploratórios
+que desenvolvo para aprimorar minhas
+habilidades técnicas.
+
+Estou aberto a oportunidades 
+e colaborações!
+
+Sinta-se à vontade para explorar,
+contribuir e entrar em contato 
+para discutir como posso
+agregar valor ao seu time! 🚀
    <div>
      
    <div align="center">
