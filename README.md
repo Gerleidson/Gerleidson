@@ -11,52 +11,50 @@
   <img height="300" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"  />
 <div>
 
-<div align="center">
-
+<div align="center" >
+ <p align="justify">
 
       Olá, meu nome é Gerleidson Bomfim,
       um entusiasta de programação em
-      busca de oportunidades na área de
-      desenvolvimento de software. 
-      É um prazer tê-lo aqui no meu GitHub!
+      busca de oportunidades emocionantes 
+      na área de desenvolvimento de software. 
       
-      Sou um aprendiz dedicado, constantemente
-      empenhado em aprimorar minhas habilidades
-      de codificação. Possuo formação em 
-      Análise e Desenvolvimento de Sistemas 
-      pela Unicesumar.
+      Sou um aprendiz dedicado, sempre em busca
+      de aprimorar minhas habilidades de codificação.
+      Possuo formação em Análise e Desenvolvimento 
+      de Sistemas pela Unicesumar.
       
       > Projetos
-      Este repositório abriga alguns dos meus 
+      Este repositório é o lar de alguns dos meus 
       projetos e experimentos de aprendizado.
       Mesmo sem experiência profissional, 
       estou comprometido em crescer e contribuir,
-      sempre em busca de inovações e 
-      desafios que impulsionem meu 
-      desenvolvimento profissional.
+      enfrentando desafios que impulsionam
+      meu desenvolvimento profissional.
       
       > Tecnologias de Interesse
-      Atualmente, estou explorando 
+      Atualmente, estou imerso no universo de  
       Java, Spring Boot, HTML, CSS e JavaScript.
       
-     > O Que Você Encontrará Aqui?
-      Projetos Pessoais: 
+     > Explore Minhas Conquistas:
+      >>> Projetos Pessoais: 
       Uma variedade de projetos que refletem
       meu interesse e paixão por resolver 
       problemas por meio do código.
       
-      Aprendizado Contínuo: 
+      >>> Aprendizado Contínuo: 
       Documentação da minha jornada de 
-      aprendizado, incluindo desafios 
+      aprendizado, destacando os desafios 
       enfrentados e lições aprendidas.
       
-      Experimentos: Pequenos testes e
-      códigos exploratórios que estou 
-      desenvolvendo para aprimorar 
-      minhas habilidades técnicas.
-      
-      Sinta-se à vontade para explorar, contribuir e entrar em contato! 🚀
+      >>> Experimentos: Pequenos testes e
+      códigos exploratórios que desenvolvo
+      para aprimorar minhas habilidades técnicas.
 
+      Estou aberto a oportunidades e colaborações!
+      Sinta-se à vontade para explorar, contribuir
+      e entrar em contato para discutir como posso
+      agregar valor ao seu time! 🚀
    <div>
      
    <div align="center">
