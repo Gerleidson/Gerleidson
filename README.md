@@ -46,10 +46,9 @@
       aprendizado, destacando os desafios 
       enfrentados e lições aprendidas.
       
-      •	Experimentos:
-      Pequenos testes e códigos 
-      exploratórios que desenvolvo
-      para aprimorar minhas
+      • Experimentos:
+      Pequenos testes e códigos exploratórios
+      que desenvolvo para aprimorar minhas
       habilidades técnicas.
 
       Estou aberto a oportunidades 
