@@ -37,17 +37,17 @@
       Java, Spring Boot, HTML, CSS e JavaScript.
       
       > Explore Minhas Conquistas:
-      - Projetos Pessoais: 
+      •	 Projetos Pessoais: 
       Uma variedade de projetos que refletem
       meu interesse e paixão por resolver 
       problemas por meio do código.
       
-      - Aprendizado Contínuo: 
+      •	 Aprendizado Contínuo: 
       Documentação da minha jornada de 
       aprendizado, destacando os desafios 
       enfrentados e lições aprendidas.
       
-      - Experimentos:
+      •	 Experimentos:
       Pequenos testes e códigos 
       exploratórios que desenvolvo
       para aprimorar minhas
