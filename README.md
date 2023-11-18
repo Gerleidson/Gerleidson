@@ -25,7 +25,7 @@
   
   ### **Tecnologias de Interesse**
   
-  Atualmente, estou imerso no universo de Java, Spring Boot, HTML, CSS e JavaScript.
+  Atualmente, estou imerso no universo de Java, Spring Boot, HTML, CSS, JavaScript e Android Studio.
   
   
   ### **Explore Minhas Conquistas**
