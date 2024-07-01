@@ -12,7 +12,9 @@
 <div>
 
   <div align="justify">
-  ### Olá mundo, 
+   
+  ### **Olá mundo!**
+   
   Meu nome é Gerleidson Bomfim, um entusiasta de programação em busca de oportunidades emocionantes na área de desenvolvimento de software. 
   Estou sempre buscando aprimorar minhas habilidades de codificação. Possuo formação em análise e desenvolvimento de sistemas pela Unicesumar/2023.
   
