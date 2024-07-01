@@ -29,18 +29,8 @@
   
   Atualmente, estou imerso no universo de Java, Spring Boot, HTML, CSS, JavaScript e Android Studio.
   
-  
-  ### **Explore Minhas Conquistas**
-  
-  • Projetos Pessoais: Uma variedade de projetos que refletem meu interesse e paixão por resolver problemas por meio do código.
-  
-  • Aprendizado Contínuo: Documentação da minha jornada de aprendizado, destacando os desafios enfrentados e lições aprendidas.
-  
-  • Experimentos: Pequenos testes e códigos exploratórios que desenvolvo para aprimorar minhas habilidades técnicas.
-
    Estou aberto a oportunidades e colaborações!
 
-   Sinta-se à vontade para explorar, contribuir e entrar em contato para discutir como posso agregar valor ao seu time! 🚀
    <div>
      
    <div align="center">
@@ -53,15 +43,19 @@
   <a href="https://www.linkedin.com/in/gerleidson" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+ 
   <a href="https://instagram.com/gerleidson" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+  
   <a href="https://api.whatsapp.com/send?phone=+5571992777540" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
+  
   <a href="mailto:gerleidson.bomfim@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+  
 <div>
 
     Hard Skils:
