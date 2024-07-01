@@ -1,43 +1,39 @@
- <div align="center">
-
-   Total de visitas
-<div>
-
- <div align="center">
- <img src="https://profile-counter.glitch.me/Gerleidson/count.svg"/>
- </div>
-
 <div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"  />
-<div>
+  
+  ![Total de Visitas](https://profile-counter.glitch.me/Gerleidson/count.svg)
+  
+  ![Coding Gif](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+  
+</div>
 
-  <div align="justify">
-   
-  ### **Olá mundo!**
-   
-  Meu nome é Gerleidson Bomfim, um entusiasta de programação em busca de oportunidades emocionantes na área de desenvolvimento de software. 
-  Estou sempre buscando aprimorar minhas habilidades de codificação. Possuo formação em análise e desenvolvimento de sistemas pela Unicesumar/2023.
-  
-  
-  ### **Projetos**
-  
-  Este repositório é o lar de alguns dos meus projetos e experimentos de aprendizado. Mesmo sem experiência profissional, estou comprometido em crescer e contribuir,
-  enfrentando desafios que impulsionam meu desenvolvimento profissional.
-  
-  
-  ### **Tecnologias de Interesse**
-  
-  Atualmente, estou imerso no universo de Java, Spring Boot, HTML, CSS, JavaScript e Android Studio.
-  
-   Estou aberto a oportunidades e colaborações!
+### **Olá, Mundo!** 🌍
 
-   <div>
-     
-   <div align="center">
+Meu nome é **Gerleidson Bomfim**, um entusiasta de programação em busca de oportunidades emocionantes na área de desenvolvimento de software. Estou sempre buscando aprimorar minhas habilidades de codificação. 
+Possuo formação em Análise e Desenvolvimento de Sistemas pela **Unicesumar (2023)**.
+
+---
+
+### **Projetos em Destaque** 🚀
+
+- [**MeuCarrinho**](https://github.com/Gerleidson/App-MeuCarrinho): Um aplicativo Android para gerenciamento de lista de compras.
+- [**MeuCarrinho**](https://github.com/Gerleidson/Meu-Carrinho): Um site para gerenciamento de lista de compras.
+- [**Site de Achados e Perdidos**](https://github.com/Gerleidson/AcheiDocs): Uma plataforma para ajudar pessoas a encontrar documentos perdidos.
+
+---
+
+### **Tecnologias de Interesse** 🛠️
+
+Atualmente, estou imerso no universo de:
+  
+**Java** | **Spring Boot** | **HTML** | **CSS** | **JavaScript** | **Android Studio**
+
+---
+   
+<div align="center">
 
     Contate-me  
     
-  <div>
+ <div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gerleidson" target="_blank">
@@ -95,14 +91,7 @@
    
      Soft Skills:
 
-•	Organização
-•	Integridade
-•	Comunicação
-•	Trabalho em equipe	
-•	Colaboração
-•	Flexibilidade
-•	Liderança
-•	Adaptável
+Organização | Integridade | Comunicação | Trabalho em equipe	|	Colaboração | Flexibilidade | Liderança | Adaptável
   
  ![](https://i.imgur.com/waxVImv.png)
   
