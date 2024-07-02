@@ -29,9 +29,9 @@ estou sempre buscando aprimorar minhas habilidades de codificação.
 
 ### **Projetos em Destaque** 🚀
 
-- [**Meu Carrinho** (Android)](https://github.com/Gerleidson/App-MeuCarrinho): Um aplicativo Android para gerenciamento de lista de compras com banco de dados SQLlite.
+- [**Meu Carrinho** (Android)](https://github.com/Gerleidson/App-MeuCarrinho): Um aplicativo Android para gerenciamento de lista de compras com banco de dados SQLite.
 - [**Meu Carrinho** (Web)](https://compra-mensal.vercel.app/): Um site para gerenciamento de lista de compras desenvolvido apenas com HTML, CSS e JS.
-- [**Achados e Perdidos - Acheidocs** (Web)](https://acheidocs.vercel.app/): Uma plataforma para ajudar pessoas a encontrar documentos perdidos, desenvolvido apenas com HTML, CSS e JS. (Em desenvolvimento).
+- [**Achados e Perdidos - Acheidocs** (Web)](https://acheidocs.vercel.app/): Uma plataforma para ajudar pessoas a encontrar documentos perdidos, desenvolvido apenas com HTML, CSS e JS.
 
 ---
 
@@ -67,11 +67,10 @@ Mergulharei em breve em:
     <td valign="top" width="33%">
       <h3>Backend</h3>
       <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo">       
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="Spring logo">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo">
       </div>
     </td>
