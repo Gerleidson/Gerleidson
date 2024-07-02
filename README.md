@@ -2,8 +2,7 @@
   <img src="https://profile-counter.glitch.me/Gerleidson/count.svg" alt="Total de Visitas">
 </div>
 
-<img align="right" alt="GIF" src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/intro.gif" width="260px">
-
+<img align="right" alt="GIF" src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/intro.gif" width="320px">
 
 ### **Olá, Mundo!** 🌍
 
