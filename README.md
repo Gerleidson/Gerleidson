@@ -49,7 +49,7 @@ Atualmente, estou imerso no universo de:
   </a>
   
   <a href="mailto:gerleidson.bomfim@gmail.com" target="_blank">
-    <img src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/gmail.gif" width="70" height="60" alt="gmail logo"  />
+    <img src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/mail5.gif" width="70" height="60" alt="gmail logo"  />
   </a>
   
 <div>
