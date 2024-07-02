@@ -37,19 +37,19 @@ Atualmente, estou imerso no universo de:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gerleidson" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/linkdin.gif" width="70" height="60" alt="linkedin logo"  />
   </a>
  
   <a href="https://instagram.com/gerleidson" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/insta1.gif" width="70" height="60" alt="instagram logo"  />
   </a>
   
   <a href="https://api.whatsapp.com/send?phone=+5571992777540" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/whats.gif" width="70" height="60" alt="whatsapp logo"  />
   </a>
   
   <a href="mailto:gerleidson.bomfim@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/gmail.gif" width="70" height="60" alt="gmail logo"  />
   </a>
   
 <div>
