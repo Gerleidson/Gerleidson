@@ -88,11 +88,7 @@ Atualmente, estou imerso no universo de:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="12" />
-   
-     Soft Skills:
-
-Organização | Integridade | Comunicação | Trabalho em equipe	|	Colaboração | Flexibilidade | Liderança | Adaptável
-  
+    
  ![](https://i.imgur.com/waxVImv.png)
   
 <div align="center">
