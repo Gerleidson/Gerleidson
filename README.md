@@ -1,10 +1,10 @@
 <div align="center">
   
   ![Total de Visitas](https://profile-counter.glitch.me/Gerleidson/count.svg)
-  
-  ![Coding Gif](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-  
+    
 </div>
+
+<img align="right" alt="GIF" src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/intro.gif" width="300px" />
 
 ### **Olá, Mundo!** 🌍
 
