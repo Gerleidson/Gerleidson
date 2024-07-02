@@ -29,9 +29,9 @@ estou sempre buscando aprimorar minhas habilidades de codificação.
 
 ### **Projetos em Destaque** 🚀
 
-- [**Meu Carrinho** (Android)](https://github.com/Gerleidson/App-MeuCarrinho): Um aplicativo Android para gerenciamento de lista de compras.
-- [**Meu Carrinho** (Web)](https://github.com/Gerleidson/Meu-Carrinho): Um site para gerenciamento de lista de compras.
-- [**Achados e Perdidos - Acheidocs** (Web)](https://github.com/Gerleidson/AcheiDocs): Uma plataforma para ajudar pessoas a encontrar documentos perdidos.
+- [**Meu Carrinho** (Android)](https://github.com/Gerleidson/App-MeuCarrinho): Um aplicativo Android para gerenciamento de lista de compras com banco de dados SQLlite.
+- [**Meu Carrinho** (Web)](https://compra-mensal.vercel.app/): Um site para gerenciamento de lista de compras desenvolvido apenas com HTML, CSS e JS.
+- [**Achados e Perdidos - Acheidocs** (Web)](https://acheidocs.vercel.app/): Uma plataforma para ajudar pessoas a encontrar documentos perdidos, desenvolvido apenas com HTML, CSS e JS. (Em desenvolvimento).
 
 ---
 
