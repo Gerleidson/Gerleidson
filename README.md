@@ -4,6 +4,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/intro.gif" width="260px">
 
+
 ### **Olá, Mundo!** 🌍
 
 Meu nome é **Gerleidson Bomfim**, um entusiasta de programação em busca de oportunidades emocionantes na área de desenvolvimento de software. <br>
