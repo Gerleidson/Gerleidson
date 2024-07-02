@@ -4,7 +4,7 @@
     
 </div>
 
-<img align="right" alt="GIF" src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/intro.gif" width="300px" />
+<img align="right" alt="GIF" src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/intro.gif" width="260px" />
 
 ### **Olá, Mundo!** 🌍
 
