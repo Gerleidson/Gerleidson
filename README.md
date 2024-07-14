@@ -42,11 +42,11 @@ estou sempre buscando aprimorar minhas habilidades de codificação.
 
 Atualmente, estou imerso no universo de:
   
-**Java** | **Spring Boot** | **HTML** | **CSS** | **JavaScript** | **Android Studio**
+   * **Java** | **Spring Boot** | **HTML** | **CSS** | **JavaScript** | **Android Studio**
 
 Mergulharei em breve em:
 
-**PHP** | **Angular**
+   * **PHP** | **Angular**
 
 ---
 
