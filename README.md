@@ -27,6 +27,9 @@ estou sempre buscando aprimorar minhas habilidades de codificação.
 
 ---
 
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/945d364c-9282-4939-8ed9-34522255cb71" width="360px">
+
+
 ### **Projetos em Destaque** 🚀
 
 - [**Meu Carrinho** (Android)](https://github.com/Gerleidson/App-MeuCarrinho): Um aplicativo Android para gerenciamento de lista de compras com banco de dados SQLite.
