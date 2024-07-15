@@ -52,7 +52,7 @@ Mergulharei em breve em:
 
 <div align="center">
  
-## Meu conjunto de habilidades:  
+## Minhas habilidades:  
 
 <table>
   <tr>
