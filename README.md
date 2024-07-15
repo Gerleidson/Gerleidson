@@ -25,9 +25,10 @@ estou sempre buscando aprimorar minhas habilidades de codificação.
   </a>
 
 
----
+--- 
 
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/945d364c-9282-4939-8ed9-34522255cb71" width="360px">
+
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/55b18927-2c24-49dd-89a1-b34165914919" width="360px">
 
 
 ### **Projetos em Destaque** 🚀
