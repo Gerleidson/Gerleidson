@@ -44,7 +44,7 @@ estou sempre buscando aprimorar minhas habilidades de codificação.
 
 Atualmente, estou imerso no universo de:
   
-   * **Java** | **Spring Boot** | **HTML** | **CSS** | **JavaScript** | **Android Studio**
+   * **Java** | **Spring Boot** | **HTML** | **CSS** | **JavaScript** | **Bootstrap 5**
 
 Mergulharei em breve em:
 
@@ -61,11 +61,12 @@ Mergulharei em breve em:
     <td valign="top" width="33%">
       <h3>Frontend</h3>
       <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5 logo">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3 logo">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5 logo">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3 logo">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva logo">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator logo">
       </div>
     </td>
