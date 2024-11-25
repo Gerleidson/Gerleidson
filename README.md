@@ -49,7 +49,7 @@ Atualmente, estou imerso no universo de:
 
 Mergulharei em breve em:
 
-   * **PHP** | **Angular**
+   * **Python** | **PHP** | **Angular**
 
 ---
 
