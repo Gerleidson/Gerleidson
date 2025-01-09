@@ -33,11 +33,12 @@ estou sempre buscando aprimorar minhas habilidades de codificação.
 
 ### **Projetos em Destaque** 🚀
 
+- [**Controle Fincanceiro** (Web)](https://github.com/Gerleidson/ControleFinanceiro): Aplicação web que permite gerenciar e visualizar os seus gastos, vendas, lucros, dívidas e metas de forma simples e intuitiva. [**Acesse aqui**](https://controllefinanceiro.vercel.app/)
 - [**Hospital-LoremIpsum** (Web)](https://github.com/Gerleidson/Hospital-Promater): Site desenvolvido para Hospitais, destacando suas principais funcionalidades e serviços. [**Acesse aqui**](https://hospital-lorem-ipsum.vercel.app/)
 - [**Meu Carrinho** (App Android)](https://github.com/Gerleidson/App-MeuCarrinho): Um aplicativo Android para gerenciamento de lista de compras com banco de dados SQLite.
 - [**Meu Carrinho** (Web)](https://github.com/Gerleidson/Meu-Carrinho): Um site para gerenciamento de lista de compras desenvolvido apenas com HTML, CSS e JS. [**Acesse aqui**](https://compra-mensal.vercel.app/)
 - [**Acheidocs** (Web)](https://github.com/Gerleidson/AcheiDocs): Uma plataforma para ajudar pessoas a encontrar documentos perdidos, desenvolvido apenas com HTML, CSS e JS. [**Acesse aqui**](https://achei-docs.vercel.app/)
-- [**Tributos Igreja** (App Android)](https://github.com/Gerleidson/App-TributosVPB):Aplicativo destinada às igrejas, permite calcular e compartilhar os valores de diferentes tipos de contribuições com base na remuneração e semeadura fornecidas pelo usuário.
+- [**Tributos Igreja** (App Android)](https://github.com/Gerleidson/App-TributosVPB): Aplicativo destinada às igrejas, permite calcular e compartilhar os valores de diferentes tipos de contribuições com base na remuneração e semeadura fornecidas pelo usuário.
 
 ---
 
