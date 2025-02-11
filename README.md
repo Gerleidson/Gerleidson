@@ -43,16 +43,21 @@ estou sempre buscando aprimorar minhas habilidades de codificação.
 
 ---
 
-### **Tecnologias de Interesse** 🛠️
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/2d5128e8-240d-4311-adf8-7eb86bb2edb6" width="360px">
+
+
+### Tecnologias de Interesse 🛠️
 
 Atualmente, estou imerso no universo de:
   
-   * **Java** | **Spring Boot** | **HTML** | **CSS** | **JavaScript** | **Bootstrap 5**
+   * **Java** | **Spring Boot**
+   * **HTML** | **CSS** | **JavaScript** | **Bootstrap 5**
+   * **Flutter**
 
 Mergulharei em breve em:
 
-   * **PHP** | **Angular**
-
+   * **PHP** 
+   * **Angular**
 ---
 
 <div align="center">
