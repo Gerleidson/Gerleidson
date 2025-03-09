@@ -11,7 +11,7 @@ Graduado em Tecnólogo em Análise e Desenvolvimento de Sistemas pela **Unicesum
 estou sempre buscando aprimorar minhas habilidades de codificação.
 
  <h3>Contate-me</h3>
-  <a href="https://www.linkedin.com/in/gerleidson" target="_blank">
+  <a href="https://www.linkedin.com/in/gerleidsonBomfim" target="_blank">
     <img src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/linkdin.gif" width="70" height="60" alt="LinkedIn logo">
   </a>
   <a href="https://instagram.com/gerleidson" target="_blank">
