@@ -1,5 +1,10 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Gerleidson/count.svg" alt="Total de Visitas">
+  ![Total de Visitas](https://profile-counter.glitch.me/Gerleidson/count.svg)
+
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Gerleidson.Gerleidson)
+
+
 </div>
 
 <img align="right" alt="GIF" src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/intro.gif" width="360px">
