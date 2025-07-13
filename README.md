@@ -6,11 +6,11 @@
 
 ### **Olá, Mundo!** 🌍
 
-Meu nome é **Gerleidson Bomfim**, um entusiasta de programação em busca de oportunidades emocionantes na área de desenvolvimento de software. <br>
-Graduado em Tecnólogo em Análise e Desenvolvimento de Sistemas pela **Unicesumar (2023)** e
-estou sempre buscando aprimorar minhas habilidades de codificação.
+Sou **Gerleidson Bomfim**, desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios na área de desenvolvimento de software.  
+Graduado em Tecnólogo em Análise e Desenvolvimento de Sistemas pela **Unicesumar (2023)**, estou constantemente aprimorando minhas habilidades em programação.
 
- <h3>Contate-me</h3>
+ ### Contato
+ 
   <a href="https://www.linkedin.com/in/gerleidsonBomfim" target="_blank">
     <img src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/linkdin.gif" width="70" height="60" alt="LinkedIn logo">
   </a>
@@ -24,82 +24,72 @@ estou sempre buscando aprimorar minhas habilidades de codificação.
     <img src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/mail5.gif" width="70" height="60" alt="Gmail logo">
   </a>
 
-
 --- 
 
-### **Projetos em Destaque** 🚀
+### Projetos em Destaque 🚀
 
-- [**Acheidocs** (Web)](https://github.com/Gerleidson/AcheiDocs): Plataforma desenvolvida para auxiliar na localização de documentos perdidos. A aplicação foi construída utilizando HTML, CSS e JavaScript para a interface, com Firebase integrado como banco de dados, garantindo eficiência e segurança na gestão das informações. [**Acesse aqui**](https://acheidocs.vercel.app/)
-  
-- [**AcheidocsApp** (Mobile)](https://github.com/Gerleidson/AcheiDocsApp): Aplicativo mobile desenvolvido para plataformas Android e iOS, utilizando Flutter. O app está integrado ao Firebase, permitindo a gestão e recuperação de documentos cadastrados no banco de dados do site AcheiDocs.
-  
-- [**Controle Fincanceiro** (Web)](https://github.com/Gerleidson/ControleFinanceiro): Aplicação web que permite gerenciar e visualizar os seus gastos, vendas, lucros, dívidas e metas de forma simples e intuitiva. [**Acesse aqui**](https://controllefinanceiro.vercel.app/)
-  
-- [**Hospital-LoremIpsum** (Web)](https://github.com/Gerleidson/Hospital-Promater): Site desenvolvido para Hospitais, destacando suas principais funcionalidades e serviços. [**Acesse aqui**](https://hospital-lorem-ipsum.vercel.app/)
-  
-- [**Meu Carrinho** (App Android)](https://github.com/Gerleidson/App-MeuCarrinho): Um aplicativo Android para gerenciamento de lista de compras com banco de dados SQLite.
-  
-- [**Meu Carrinho** (Web)](https://github.com/Gerleidson/Meu-Carrinho): Um site para gerenciamento de lista de compras desenvolvido apenas com HTML, CSS e JS. [**Acesse aqui**](https://compra-mensal.vercel.app/)
-  
-- [**Tributos Igreja** (App Android)](https://github.com/Gerleidson/App-TributosVPB): Aplicativo destinada às igrejas, permite calcular e compartilhar os valores de diferentes tipos de contribuições com base na remuneração e semeadura fornecidas pelo usuário.
+- [**Acheidocs** (Web)](https://github.com/Gerleidson/AcheiDocs)  
+  Plataforma para ajudar na localização de documentos perdidos. Desenvolvida com HTML, CSS e JavaScript, utilizando Firebase para banco de dados. [🔗 **Acesse aqui**](https://acheidocs.vercel.app/)
+
+- [**AcheidocsApp** (Mobile)](https://github.com/Gerleidson/AcheiDocsApp)  
+  Aplicativo mobile (Android e iOS) criado em Flutter, integrado ao Firebase para gestão dos documentos cadastrados.
+
+- [**Controle Financeiro** (Web)](https://github.com/Gerleidson/ControleFinanceiro)  
+  Aplicação web para controle de gastos, vendas, lucros, dívidas e metas.  [🔗 **Acesse aqui**](https://controllefinanceiro.vercel.app/)
+
+- [**Hospital-LoremIpsum** (Web)](https://github.com/Gerleidson/Hospital-Promater)  
+  Website para hospitais, apresentando serviços e funcionalidades.  [🔗 **Acesse aqui**](https://hospital-lorem-ipsum.vercel.app/)
+
+- [**Meu Carrinho** (Android App)](https://github.com/Gerleidson/App-MeuCarrinho)  
+  Aplicativo Android para gerenciamento de lista de compras, usando SQLite.
+
+- [**Meu Carrinho** (Web)](https://github.com/Gerleidson/Meu-Carrinho)  
+  Website para gerenciamento de lista de compras, feito em HTML, CSS e JS.  [🔗 **Acesse aqui**](https://compra-mensal.vercel.app/)
+
+- [**Tributos Igreja** (Android App)](https://github.com/Gerleidson/App-TributosVPB)  
+  Aplicativo destinado a igrejas para calcular e compartilhar valores de contribuições.
 
 ---
 
-<img align="left" alt="GIF" src="https://github.com/user-attachments/assets/2d5128e8-240d-4311-adf8-7eb86bb2edb6" width="250px">
-
-
-### Tecnologias de Interesse 🛠️
-
-Atualmente, estou imerso no universo de:
-  
-   * **Java** | **Spring Boot**
-   * **HTML** | **CSS** | **JavaScript** | **Bootstrap 5**
-   * **Flutter**
-
-Mergulharei em breve em:
-
-   * **PHP** 
-   * **Angular**
-
-<div align="center">
- 
-## Minhas habilidades:  
+### Minhas Habilidades
 
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <h3>Frontend</h3>
       <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5 logo">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3 logo">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva logo">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator logo">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator logo"/>
       </div>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <h3>Backend</h3>
       <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo">       
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="Spring logo">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"/>       
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="Spring logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"/>
       </div>
     </td>
-    <td valign="top" width="33%">
-      <h3>IDEs</h3>
+    <td valign="top" width="50%">
+      <h3>Ferramentas e IDEs</h3>
       <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio logo">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ logo">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo"/>
       </div>
     </td>
   </tr>
 </table>
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gerleidson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="125" alt="stats graph">
