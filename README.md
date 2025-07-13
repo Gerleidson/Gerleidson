@@ -1,10 +1,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Gerleidson/count.svg" alt="Total de Visitas">
-  ![Total de Visitas](https://profile-counter.glitch.me/Gerleidson/count.svg)
-
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Gerleidson.Gerleidson)
-
-
 </div>
 
 <img align="right" alt="GIF" src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/intro.gif" width="360px">
@@ -108,4 +103,7 @@ Seja criando interfaces intuitivas ou estruturando sistemas robustos, estou semp
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gerleidson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="125" alt="stats graph">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gerleidson&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false&order=2" height="125" alt="languages graph">
+  ![svg](https://raw.githubusercontent.com/gerleidson/github-profile-3d-contrib/main/docs/demo/profile-night-view.svg)
+
+ 
 </div>
