@@ -6,8 +6,16 @@
 
 ### **Olá, Mundo!** 🌍
 
-Sou **Gerleidson Bomfim**, desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios na área de desenvolvimento de software.  
-Graduado em Tecnólogo em Análise e Desenvolvimento de Sistemas pela **Unicesumar (2023)**, estou constantemente aprimorando minhas habilidades em programação.
+Sou **Gerleidson Bomfim**, desenvolvedor apaixonado por tecnologia tecnologia, inovação e soluções criativas. Sou movido por desafios e estou sempre em busca de evoluir, aprender novas ferramentas e entregar resultados com excelência.
+
+🎓 Sou formado em **Análise e Desenvolvimento de Sistemas** pela Unicesumar (2023)
+
+💡 Tenho interesse especial em **desenvolvimento de software**, tanto no **frontend** quanto no **backend** e tambem em **Banco de dados**.
+
+🚀 Atualmente, venho aprimorando minhas habilidades em **programação**, explorando tecnologias modernas, frameworks, e boas práticas de código.
+
+Seja criando interfaces intuitivas ou estruturando sistemas robustos, estou sempre pronto para aprender algo novo e contribuir com projetos que impactam positivamente o mundo da tecnologia.
+
 
  ### Contato
  
