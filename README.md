@@ -32,19 +32,19 @@ Graduado em Tecnólogo em Análise e Desenvolvimento de Sistemas pela **Unicesum
   Plataforma para ajudar na localização de documentos perdidos. Desenvolvida com HTML, CSS e JavaScript, utilizando Firebase para banco de dados. [🔗 **Acesse aqui**](https://acheidocs.vercel.app/)
 
 - [**AcheidocsApp** (Mobile)](https://github.com/Gerleidson/AcheiDocsApp)  
-  Aplicativo mobile (Android e iOS) criado em Flutter, integrado ao Firebase para gestão dos documentos cadastrados.
+  Aplicativo criado em Flutter, integrado ao Firebase e ao site **AcheiDocs** para gestão dos documentos cadastrados.
 
 - [**Controle Financeiro** (Web)](https://github.com/Gerleidson/ControleFinanceiro)  
-  Aplicação web para controle de gastos, vendas, lucros, dívidas e metas.  [🔗 **Acesse aqui**](https://controllefinanceiro.vercel.app/)
+  Aplicação para controle de gastos, vendas, lucros, dívidas e metas de forma simples e intuitiva.  [🔗 **Acesse aqui**](https://controllefinanceiro.vercel.app/)
 
 - [**Hospital-LoremIpsum** (Web)](https://github.com/Gerleidson/Hospital-Promater)  
-  Website para hospitais, apresentando serviços e funcionalidades.  [🔗 **Acesse aqui**](https://hospital-lorem-ipsum.vercel.app/)
-
-- [**Meu Carrinho** (Android App)](https://github.com/Gerleidson/App-MeuCarrinho)  
-  Aplicativo Android para gerenciamento de lista de compras, usando SQLite.
+  Website para hospitais, destacando suas princvipais funcionalidades e serviços.  [🔗 **Acesse aqui**](https://hospital-lorem-ipsum.vercel.app/)
 
 - [**Meu Carrinho** (Web)](https://github.com/Gerleidson/Meu-Carrinho)  
-  Website para gerenciamento de lista de compras, feito em HTML, CSS e JS.  [🔗 **Acesse aqui**](https://compra-mensal.vercel.app/)
+  Plataforma para gerenciamento de lista de compras, Desenvolvida em HTML, CSS e JS.  [🔗 **Acesse aqui**](https://compra-mensal.vercel.app/)
+
+- [**Meu Carrinho** (Android App)](https://github.com/Gerleidson/App-MeuCarrinho)  
+  Aplicativo para gerenciamento de lista de compras, usando SQLite.
 
 - [**Tributos Igreja** (Android App)](https://github.com/Gerleidson/App-TributosVPB)  
   Aplicativo destinado a igrejas para calcular e compartilhar valores de contribuições.
