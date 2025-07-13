@@ -28,7 +28,7 @@ estou sempre buscando aprimorar minhas habilidades de codificação.
 --- 
 
 
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/55b18927-2c24-49dd-89a1-b34165914919" width="360px">
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/55b18927-2c24-49dd-89a1-b34165914919" width="250px">
 
 
 ### **Projetos em Destaque** 🚀
@@ -49,7 +49,7 @@ estou sempre buscando aprimorar minhas habilidades de codificação.
 
 ---
 
-<img align="left" alt="GIF" src="https://github.com/user-attachments/assets/2d5128e8-240d-4311-adf8-7eb86bb2edb6" width="300px">
+<img align="left" alt="GIF" src="https://github.com/user-attachments/assets/2d5128e8-240d-4311-adf8-7eb86bb2edb6" width="250px">
 
 
 ### Tecnologias de Interesse 🛠️
