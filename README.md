@@ -1,16 +1,27 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
 
-<img align="right" alt="GIF" src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/intro.gif" width="400px">
+<table>
+  <tr>
+    <td>
 
 ### **Olá, Mundo!** 🌍
 
-Sou **Gerleidson Bomfim**, desenvolvedor full stack apaixonado por tecnologia tecnologia, inovação e soluções criativas. Sou movido por desafios e estou sempre em busca de evoluir, aprender novas ferramentas e entregar resultados com excelência.
+Sou **Gerleidson Bomfim**, desenvolvedor full stack apaixonado por tecnologia, inovação e soluções criativas. Sou movido por desafios e estou sempre em busca de evoluir, aprender novas ferramentas e entregar resultados com excelência.
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela Unicesumar (2023)
 
 🚀 Atualmente, venho aprimorando minhas habilidades em **programação**, explorando tecnologias modernas, frameworks, e boas práticas de código.
 
 Seja criando interfaces intuitivas ou estruturando sistemas robustos, estou sempre pronto para aprender algo novo e contribuir com projetos que impactam positivamente o mundo da tecnologia.
+
+</td>
+    <td>
+
+<img align="right" alt="GIF" src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/intro.gif" width="500px">
+
+</td>
+  </tr>
+</table>
 
  ### Contato
 
@@ -27,8 +38,6 @@ Seja criando interfaces intuitivas ou estruturando sistemas robustos, estou semp
     <img src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/mail5.gif" width="70" height="60" alt="Gmail logo">
   </a>
 
---- 
-
 ### Projetos em Destaque
 
 | Projeto | Descrição |
@@ -40,8 +49,6 @@ Seja criando interfaces intuitivas ou estruturando sistemas robustos, estou semp
 | [Meu Carrinho](https://compra-mensal.vercel.app/) | <br>Plataforma para gerenciamento de lista de compras. Desenvolvida em HTML, CSS e JS. [🔗 Acesse aqui](https://compra-mensal.vercel.app/) |
 | [Meu Carrinho Mobile](https://github.com/Gerleidson/App-MeuCarrinho) | <br>Aplicativo para gerenciamento de lista de compras, usando SQLite. |
 | [Tributos Igreja Mobile](https://github.com/Gerleidson/App-TributosVPB) | <br>Aplicativo destinado a igrejas para calcular e compartilhar valores de contribuições. |
-
----
 
 ### Minhas Habilidades
 
@@ -55,7 +62,6 @@ Seja criando interfaces intuitivas ou estruturando sistemas robustos, estou semp
 
  [![My Skills](https://skillicons.dev/icons?i=vscode,idea,androidstudio&theme=light)](https://skillicons.dev)
 
----
 <div align="center">
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gerleidson&theme=algolia" />
