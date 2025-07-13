@@ -1,6 +1,3 @@
-
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGerleidson&s=30&c=00ff00&bg=00000000&no=6&ff=electrolize&tb=Total+de+visitas+&ta=)
-
 <img align="right" alt="GIF" src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/intro.gif" width="360px">
 
 ### **Olá, Mundo!** 🌍
