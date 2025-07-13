@@ -97,6 +97,8 @@ Seja criando interfaces intuitivas ou estruturando sistemas robustos, estou semp
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gerleidson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="185" alt="stats graph">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gerleidson&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false&order=2" height="185" alt="languages graph">
+  <img 
+   src="https://github-readme-stats.vercel.app/api?username=Gerleidson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="185" alt="stats graph">
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gerleidson&locale=pt-br&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false&order=2" height="185" alt="languages graph">
  
