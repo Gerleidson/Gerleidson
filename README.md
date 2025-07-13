@@ -30,43 +30,19 @@ Seja criando interfaces intuitivas ou estruturando sistemas robustos, estou semp
 
 ### Projetos em Destaque 🚀
 
-- [**Acheidocs** (Web)](https://github.com/Gerleidson/AcheiDocs)  
-  Plataforma para ajudar na localização de documentos perdidos. Desenvolvida com HTML, CSS e JavaScript, utilizando Firebase para banco de dados. [🔗 **Acesse aqui**](https://acheidocs.vercel.app/)
-
-- [**AcheidocsApp** (Mobile)](https://github.com/Gerleidson/AcheiDocsApp)  
-  Aplicativo criado em Flutter, integrado ao Firebase e ao site **AcheiDocs** para gestão dos documentos cadastrados.
-
-- [**Controle Financeiro** (Web)](https://github.com/Gerleidson/ControleFinanceiro)  
-  Aplicação para controle de gastos, vendas, lucros, dívidas e metas de forma simples e intuitiva.  [🔗 **Acesse aqui**](https://controllefinanceiro.vercel.app/)
-
-- [**Hospital-LoremIpsum** (Web)](https://github.com/Gerleidson/Hospital-LoremIpsum)  
-  Website para hospitais, destacando suas princvipais funcionalidades e serviços.  [🔗 **Acesse aqui**](https://hospital-lorem-ipsum.vercel.app/)
-
-- [**Meu Carrinho** (Web)](https://github.com/Gerleidson/Meu-Carrinho)  
-  Plataforma para gerenciamento de lista de compras, Desenvolvida em HTML, CSS e JS.  [🔗 **Acesse aqui**](https://compra-mensal.vercel.app/)
-
-- [**Meu Carrinho** (Android App)](https://github.com/Gerleidson/App-MeuCarrinho)  
-  Aplicativo para gerenciamento de lista de compras, usando SQLite.
-
-- [**Tributos Igreja** (Android App)](https://github.com/Gerleidson/App-TributosVPB)  
-  Aplicativo destinado a igrejas para calcular e compartilhar valores de contribuições.
-
+| Projeto | Descrição |
+| ------- | --------- |
+| [AcheiDocs](https://acheidocs.vercel.app/) | <br>Plataforma para ajudar na localização de documentos perdidos. Desenvolvida com HTML, CSS e JavaScript, utilizando Firebase para banco de dados. [🔗 Acesse aqui](https://acheidocs.vercel.app/) |
+| [AcheiDocs Mobile](https://github.com/Gerleidson/AcheiDocsApp) | <br>Aplicativo criado em Flutter, integrado ao Firebase e ao site AcheiDocs para gestão dos documentos cadastrados. |
+| [Controle Financeiro](https://controllefinanceiro.vercel.app/) | <br>Aplicação para controle de gastos, vendas, lucros, dívidas e metas de forma simples e intuitiva. [🔗 Acesse aqui](https://controllefinanceiro.vercel.app/) |
+| [Hospital-LoremIpsum](https://hospital-lorem-ipsum.vercel.app/) | <br>Plataforma para hospitais, destacando suas principais funcionalidades e serviços. [🔗 Acesse aqui](https://hospital-lorem-ipsum.vercel.app/) |
+| [Meu Carrinho](https://compra-mensal.vercel.app/) | <br>Plataforma para gerenciamento de lista de compras. Desenvolvida em HTML, CSS e JS. [🔗 Acesse aqui](https://compra-mensal.vercel.app/) |
+| [Meu Carrinho Mobile](https://github.com/Gerleidson/App-MeuCarrinho) | <br>Aplicativo para gerenciamento de lista de compras, usando SQLite. |
+| [Tributos Igreja Mobile](https://github.com/Gerleidson/App-TributosVPB) | <br>Aplicativo destinado a igrejas para calcular e compartilhar valores de contribuições. |
 
 ---
 
 ### Minhas Habilidades
-### Minhas Habilidades
-💻 Frontend
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator"/>
-</div>
-
  💻 Frontend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
