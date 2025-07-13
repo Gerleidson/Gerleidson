@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=110&section=header)
+
 <img align="right" alt="GIF" src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/intro.gif" width="360px">
 
 ### **Olá, Mundo!** 🌍
@@ -103,3 +105,4 @@ Seja criando interfaces intuitivas ou estruturando sistemas robustos, estou semp
   />
 
 </p>
+
