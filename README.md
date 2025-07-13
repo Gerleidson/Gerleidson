@@ -13,7 +13,7 @@ Sou **Gerleidson Bomfim**, desenvolvedor full stack apaixonado por tecnologia te
 Seja criando interfaces intuitivas ou estruturando sistemas robustos, estou sempre pronto para aprender algo novo e contribuir com projetos que impactam positivamente o mundo da tecnologia.
 
  ### Contato
- 
+
   <a href="https://www.linkedin.com/in/gerleidsonBomfim" target="_blank">
     <img src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/linkdin.gif" width="70" height="60" alt="LinkedIn logo">
   </a>
