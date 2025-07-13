@@ -27,10 +27,6 @@ estou sempre buscando aprimorar minhas habilidades de codificação.
 
 --- 
 
-
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/55b18927-2c24-49dd-89a1-b34165914919" width="250px">
-
-
 ### **Projetos em Destaque** 🚀
 
 - [**Acheidocs** (Web)](https://github.com/Gerleidson/AcheiDocs): Plataforma desenvolvida para auxiliar na localização de documentos perdidos. A aplicação foi construída utilizando HTML, CSS e JavaScript para a interface, com Firebase integrado como banco de dados, garantindo eficiência e segurança na gestão das informações. [**Acesse aqui**](https://acheidocs.vercel.app/)
