@@ -17,7 +17,7 @@ Seja criando interfaces intuitivas ou estruturando sistemas robustos, estou semp
 </td>
     <td>
 
-<img align="right" alt="GIF" src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/intro.gif" width="500px">
+<img align="right" alt="GIF" src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/intro.gif" width="400px">
 
 </td>
   </tr>
