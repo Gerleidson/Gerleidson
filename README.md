@@ -1,9 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
 
-<table>
-  <tr>
-    <td>
-
 ### **Olá, Mundo!** 🌍
 
 Sou **Gerleidson Bomfim**, desenvolvedor full stack apaixonado por tecnologia, inovação e soluções criativas. Sou movido por desafios e estou sempre em busca de evoluir, aprender novas ferramentas e entregar resultados com excelência.
@@ -14,14 +10,10 @@ Sou **Gerleidson Bomfim**, desenvolvedor full stack apaixonado por tecnologia, i
 
 Seja criando interfaces intuitivas ou estruturando sistemas robustos, estou sempre pronto para aprender algo novo e contribuir com projetos que impactam positivamente o mundo da tecnologia.
 
-</td>
-    <td>
 
 <img align="right" alt="GIF" src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/intro.gif" width="400px">
 
-</td>
-  </tr>
-</table>
+
 
  ### Contato
 
