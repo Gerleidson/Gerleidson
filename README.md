@@ -43,7 +43,7 @@ Seja criando interfaces intuitivas ou estruturando sistemas robustos, estou semp
 ### Minhas Habilidades
 
 💻 Frontend  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,bootstrap,illustrator&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress,bootstrap,figma,illustrator&theme=light)](https://skillicons.dev)
 
 ⚙️ Backend  
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,js,spring,mysql&theme=light)](https://skillicons.dev)
