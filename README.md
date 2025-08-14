@@ -6,7 +6,7 @@
 
 Sou **Gerleidson Bomfim**, desenvolvedor full stack apaixonado por tecnologia, inovação e soluções criativas. Sou movido por desafios e estou sempre em busca de evoluir, aprender novas ferramentas e entregar resultados com excelência.
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela Unicesumar (2023)
+🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela Unicesumar (2023)
 
 🚀 Atualmente, venho aprimorando minhas habilidades em **programação**, explorando tecnologias modernas, frameworks, e boas práticas de código.
 
