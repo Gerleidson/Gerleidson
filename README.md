@@ -32,6 +32,7 @@ Seja criando interfaces intuitivas ou estruturando sistemas robustos, estou semp
 
 | Projeto | Descrição |
 | :------- | :---------------------------------------------------------------------------------- |
+| [Código Secreto](https://github.com/Gerleidson/codigoSecreto) | <br>Descubra o codigo e abra o cadeado com esse mini jogo de raciocinio logico, para login: admin e Senha: 1234.
 | [AcheiDocs](https://acheidocs.vercel.app/) | <br>Plataforma para ajudar na localização de documentos perdidos. Desenvolvida com HTML, CSS e JavaScript, utilizando Firebase para banco de dados. [🔗 Acesse aqui](https://acheidocs.vercel.app/) |
 | [AcheiDocs Mobile](https://github.com/Gerleidson/AcheiDocsApp) | <br>Aplicativo criado em Flutter, integrado ao Firebase e ao site AcheiDocs para gestão dos documentos cadastrados. |
 | [Controle Financeiro](https://controllefinanceiro.vercel.app/) | <br>Aplicação para controle de gastos, vendas, lucros, dívidas e metas de forma simples e intuitiva. [🔗 Acesse aqui](https://controllefinanceiro.vercel.app/) |
