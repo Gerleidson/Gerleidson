@@ -35,7 +35,7 @@ Seja criando interfaces intuitivas ou estruturando sistemas robustos, estou semp
 | [AcheiDocs](https://acheidocs.vercel.app/) | <br>Plataforma para ajudar na localização de documentos perdidos. Desenvolvida com HTML, CSS e JavaScript, utilizando Firebase para banco de dados. [🔗 Acesse aqui](https://acheidocs.vercel.app/) |
 | [AcheiDocs Mobile](https://github.com/Gerleidson/AcheiDocsApp) | <br>Aplicativo criado em Flutter, integrado ao Firebase e ao site AcheiDocs para gestão dos documentos cadastrados. |
 | [Sylla Adesivos](https://github.com/Gerleidson/syllaAdesivos) | <br>Loja online de adesivos artesanais com design criativo, navegação moderna e experiência de compra intuitiva. [🔗 Acesse aqui](https://sylla-adesivos.vercel.app/) | 
-| [Código Secreto](https://github.com/Gerleidson/codigoSecreto) | <br>Descubra o codigo e abra o cadeado com esse mini jogo de raciocinio logico, para login: admin e Senha: 1234. |
+| [Código Secreto](https://github.com/Gerleidson/meu-jogo) | <br>Descubra o codigo e abra o cadeado com esse mini jogo de raciocinio logico, para login: admin e Senha: 1234. |
 | [Hospital-LoremIpsum](https://hospital-lorem-ipsum.vercel.app/) | <br>Plataforma para hospitais, destacando suas principais funcionalidades e serviços. [🔗 Acesse aqui](https://hospital-lorem-ipsum.vercel.app/) |
 | [Meu Carrinho](https://compra-mensal.vercel.app/) | <br>Plataforma para gerenciamento de lista de compras. Desenvolvida em HTML, CSS e JS. [🔗 Acesse aqui](https://compra-mensal.vercel.app/) |
 | [Meu Carrinho Mobile](https://github.com/Gerleidson/App-MeuCarrinho) | <br>Aplicativo para gerenciamento de lista de compras, usando SQLite. |
