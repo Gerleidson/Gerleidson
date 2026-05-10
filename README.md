@@ -1,16 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a1628,50:102b79,100:1a5fa8&text=Gerleidson%20Bomfim&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Camaçari%2C%20BA&descSize=16&descAlignY=62&descFontColor=a8c4e0&animation=fadeIn"/>
+</div>
 
 <img align="right" src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/intro.gif" width="400px" alt="GIF animado" />
 
 ### **Olá, Mundo!** 🌍
 
-Sou **Gerleidson Bomfim**, desenvolvedor full stack apaixonado por tecnologia, inovação e soluções criativas. Sou movido por desafios e estou sempre em busca de evoluir, aprender novas ferramentas e entregar resultados com excelência.
-
-🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela Unicesumar (2023)
-
-🚀 Atualmente, venho aprimorando minhas habilidades em **programação**, explorando tecnologias modernas, frameworks, e boas práticas de código.
-
-Seja criando interfaces intuitivas ou estruturando sistemas robustos, estou sempre pronto para aprender algo novo e contribuir com projetos que impactam positivamente o mundo da tecnologia.
+Sou apaixonado por tecnologia, inovação e soluções criativas. Graduado em Análise e Desenvolvimento de Sistemas (Unicesumar, 2023). Movido por desafios — seja criando interfaces intuitivas ou estruturando sistemas robustos.
 
 
 ### Contato
@@ -32,12 +28,12 @@ Seja criando interfaces intuitivas ou estruturando sistemas robustos, estou semp
 
 | Projeto | Descrição |
 | :------- | :---------------------------------------------------------------------------------- |
-| [AcheiDocs](https://acheidocs.vercel.app/) | <br>Plataforma para ajudar na localização de documentos perdidos. Desenvolvida com HTML, CSS e JavaScript, utilizando Firebase para banco de dados. [🔗 Acesse aqui](https://acheidocs.vercel.app/) |
-| [AcheiDocs Mobile](https://github.com/Gerleidson/AcheiDocsApp) | <br>Aplicativo criado em Flutter, integrado ao Firebase e ao site AcheiDocs para gestão dos documentos cadastrados. |
-| [Sylla Adesivos](https://github.com/Gerleidson/syllaAdesivos) | <br>Loja online de adesivos artesanais com design criativo, navegação moderna e experiência de compra intuitiva. [🔗 Acesse aqui](https://sylla-adesivos.vercel.app/) | 
-| [Código Secreto](https://github.com/Gerleidson/meu-jogo) | <br>Descubra o codigo e abra o cadeado com esse mini jogo de raciocinio logico, para login: admin e Senha: 1234. [🔗 Acesse aqui](https://meu-jogo-eight.vercel.app/) |
-| [Hospital-LoremIpsum](https://hospital-lorem-ipsum.vercel.app/) | <br>Plataforma para hospitais, destacando suas principais funcionalidades e serviços. [🔗 Acesse aqui](https://hospital-lorem-ipsum.vercel.app/) |
-| [Meu Carrinho](https://compra-mensal.vercel.app/) | <br>Plataforma para gerenciamento de lista de compras. Desenvolvida em HTML, CSS e JS. [🔗 Acesse aqui](https://compra-mensal.vercel.app/) |
+| [AcheiDocs](https://acheidocs.vercel.app/) | <br>Plataforma para localização de documentos perdidos com banco Firebase.. [🔗 Acesse aqui](https://acheidocs.vercel.app/) |
+| [AcheiDocs Mobile](https://github.com/Gerleidson/AcheiDocsApp) | <br> App Flutter integrado ao Firebase e ao site AcheiDocs. |
+| [Sylla Adesivos](https://github.com/Gerleidson/syllaAdesivos) | <br>Loja online de adesivos artesanais com design criativo e navegação moderna. [🔗 Acesse aqui](https://sylla-adesivos.vercel.app/) | 
+| [Código Secreto](https://github.com/Gerleidson/meu-jogo) | <br>Mini jogo de raciocínio lógico — descubra o código e abra o cadeado. [🔗 Acesse aqui](https://meu-jogo-eight.vercel.app/) |
+| [Hospital-LoremIpsum](https://hospital-lorem-ipsum.vercel.app/) | <br>Plataforma institucional para hospitais com foco em serviços e usabilidade. [🔗 Acesse aqui](https://hospital-lorem-ipsum.vercel.app/) |
+| [Meu Carrinho](https://compra-mensal.vercel.app/) | <br>App web para gerenciamento de lista de compras mensais. [🔗 Acesse aqui](https://compra-mensal.vercel.app/) |
 | [Meu Carrinho Mobile](https://github.com/Gerleidson/App-MeuCarrinho) | <br>Aplicativo para gerenciamento de lista de compras, usando SQLite. |
 | [Tributos Igreja Mobile](https://github.com/Gerleidson/App-TributosVPB) | <br>Aplicativo destinado a igrejas para calcular e compartilhar valores de contribuições. |
 | [Controle Financeiro](https://controllefinanceiro.vercel.app/) | <br>Aplicação para controle de gastos, vendas, lucros, dívidas e metas de forma simples e intuitiva. [🔗 Acesse aqui](https://controllefinanceiro.vercel.app/) |
