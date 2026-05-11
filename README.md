@@ -28,16 +28,13 @@ Sou apaixonado por tecnologia, inovação e soluções criativas. Graduado em An
 
 | Projeto | Descrição |
 | :------- | :---------------------------------------------------------------------------------- |
-| [AcheiDocs](https://acheidocs.vercel.app/) | <br>Plataforma para localização de documentos perdidos com banco Firebase.. [🔗 Acesse aqui](https://acheidocs.vercel.app/) |
+| [AcheiDocs](https://acheidocs.vercel.app/) | <br>Plataforma para localização de documentos perdidos com banco Firebase.|
 | [AcheiDocs Mobile](https://github.com/Gerleidson/AcheiDocsApp) | <br> App Flutter integrado ao Firebase e ao site AcheiDocs. |
-| [Sylla Adesivos](https://github.com/Gerleidson/syllaAdesivos) | <br>Loja online de adesivos artesanais com design criativo e navegação moderna. [🔗 Acesse aqui](https://sylla-adesivos.vercel.app/) | 
-| [Código Secreto](https://github.com/Gerleidson/meu-jogo) | <br>Mini jogo de raciocínio lógico — descubra o código e abra o cadeado. [🔗 Acesse aqui](https://meu-jogo-eight.vercel.app/) |
-| [Hospital-LoremIpsum](https://hospital-lorem-ipsum.vercel.app/) | <br>Plataforma institucional para hospitais com foco em serviços e usabilidade. [🔗 Acesse aqui](https://hospital-lorem-ipsum.vercel.app/) |
-| [Meu Carrinho](https://compra-mensal.vercel.app/) | <br>App web para gerenciamento de lista de compras mensais. [🔗 Acesse aqui](https://compra-mensal.vercel.app/) |
+| [Sylla Adesivos](https://github.com/Gerleidson/syllaAdesivos) | <br>Loja online de adesivos artesanais com design criativo e navegação moderna.  | 
+| [Código Secreto](https://github.com/Gerleidson/meu-jogo) | <br>Mini jogo de raciocínio lógico — descubra o código e abra o cadeado. |
+| [Hospital-LoremIpsum](https://hospital-lorem-ipsum.vercel.app/) | <br>Plataforma institucional para hospitais com foco em serviços e usabilidade. |
+| [Meu Carrinho](https://compra-mensal.vercel.app/) | <br>App web para gerenciamento de lista de compras mensais. |
 | [Meu Carrinho Mobile](https://github.com/Gerleidson/App-MeuCarrinho) | <br>Aplicativo para gerenciamento de lista de compras, usando SQLite. |
-| [Tributos Igreja Mobile](https://github.com/Gerleidson/App-TributosVPB) | <br>Aplicativo destinado a igrejas para calcular e compartilhar valores de contribuições. |
-| [Controle Financeiro](https://controllefinanceiro.vercel.app/) | <br>Aplicação para controle de gastos, vendas, lucros, dívidas e metas de forma simples e intuitiva. [🔗 Acesse aqui](https://controllefinanceiro.vercel.app/) |
-
 
 ### Minhas Habilidades
 
