@@ -11,18 +11,7 @@ Sou apaixonado por tecnologia, inovação e soluções criativas. Graduado em An
 
 ### Contato
 
-  <a href="https://www.linkedin.com/in/gerleidsonBomfim" target="_blank">
-    <img src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/linkdin.gif" width="70" height="60" alt="LinkedIn logo">
-  </a>
-  <a href="https://instagram.com/gerleidson" target="_blank">
-    <img src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/insta1.gif" width="70" height="60" alt="Instagram logo">
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=+5571992777540" target="_blank">
-    <img src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/whats.gif" width="70" height="60" alt="WhatsApp logo">
-  </a>
-  <a href="mailto:gerleidson.bomfim@gmail.com" target="_blank">
-    <img src="https://github.com/Gerleidson/Gerleidson/blob/master/gifs/mail5.gif" width="70" height="60" alt="Gmail logo">
-  </a>
+[![Whatsapp icon](./assets/icons/Whatsapp.svg)](https://wa.me/5571992777540) [![Gmail icon](./assets/icons/Gmail.svg)](gerleidson.bomfim@gmail.com)  [![LinkedIn icon](./assets/icons/LinkedIn.svg)](https://www.linkedin.com/in/gerleidsonBomfim)
 
 ### Projetos em Destaque
 
