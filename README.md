@@ -23,7 +23,7 @@ Sou apaixonado por tecnologia, inovação e soluções criativas. Graduado em An
 | [Código Secreto](https://github.com/Gerleidson/meu-jogo) | <br>Mini jogo de raciocínio lógico — descubra o código e abra o cadeado. |
 | [Hospital-LoremIpsum](https://hospital-lorem-ipsum.vercel.app/) | <br>Plataforma institucional para hospitais com foco em serviços e usabilidade. |
 | [Meu Carrinho](https://compra-mensal.vercel.app/) | <br>App web para gerenciamento de lista de compras mensais. |
-| [Meu Carrinho Mobile](https://github.com/Gerleidson/App-MeuCarrinho) | <br>Aplicativo para gerenciamento de lista de compras, usando SQLite. |
+| [Meu Carrinho Mobile](https://github.com/Gerleidson/App-Meu-Carrinho) | <br>Aplicativo para gerenciamento de lista de compras, usando SQLite. |
 
 ### Minhas Habilidades
 
